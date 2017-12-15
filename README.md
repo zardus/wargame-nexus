@@ -49,7 +49,7 @@ General
 - [ ] [Net-Force](https://net-force.nl/)
 - [ ] [NewbieContest](https://www.newbiecontest.org/)
 - [ ] [OverTheWire Semtex](http://overthewire.org/wargames/semtex/)
-- [ ] [PicoCTF](http://picoctf.com)
+- [ ] [PicoCTF](http://picoctf.com) <img src="https://img.shields.io/badge/recommended-yes-green.svg"><img src="https://img.shields.io/badge/difficulty-beginner-green.svg">
 - [ ] [RingZer0Team Online CTF](https://ringzer0team.com/home)
 - [ ] [SmashTheStack Logic](http://logic.smashthestack.org:88/) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [ ] [The Enigma Group](https://www.enigmagroup.org/)
