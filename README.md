@@ -55,6 +55,14 @@ General
 - [ ] [The Enigma Group](https://www.enigmagroup.org/)
 - [ ] [VulnHub](https://www.vulnhub.com/) <img src="https://img.shields.io/badge/style-offline-lightgrey.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [ ] [WTHack](https://www.onlinectf.com/challenges/)
+- [ ] [ksnctf](http://ksnctf.sweetduet.info/)
+- [ ] [akictf](https://ctf.katsudon.org/)
+- [ ] [MMA CTF](https://ctf.mma.club.uec.ac.jp/)
+- [ ] [MNCTF](http://mnctf.info/)
+- [ ] [柚子胡椒CTF](https://ctf.mzyy94.com/)
+- [ ] [CpawCTF](https://ctf.cpaw.site/) <img src="https://img.shields.io/badge/difficulty-beginner-green.svg">
+- [ ] [CpawCTF2](https://ctf2.cpaw.site/)
+- [ ] [YEHD 2015 CTF](https://2015-yehd-ctf.meiji-ncc.tech/)
 
 
 Binary Pwning
@@ -75,6 +83,7 @@ Binary Pwning
 - [ ] [OverTheWire Unomo](http://overthewire.org/wargames/utumno/) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [ ] [OverTheWire Vortex](http://overthewire.org/wargames/vortex/) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [ ] [ROP](https://game.rop.sh/)
+- [ ] [MAGURO β](https://score.maguro.run/)
 
 
 Binary Reversing
