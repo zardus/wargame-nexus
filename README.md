@@ -57,12 +57,12 @@ General
 - [ ] [WTHack](https://www.onlinectf.com/challenges/)
 - [ ] [ksnctf](http://ksnctf.sweetduet.info/)
 - [ ] [akictf](https://ctf.katsudon.org/)
-- [ ] [MMA CTF](https://ctf.mma.club.uec.ac.jp/)
-- [ ] [MNCTF](http://mnctf.info/)
-- [ ] [柚子胡椒CTF](https://ctf.mzyy94.com/)
-- [ ] [CpawCTF](https://ctf.cpaw.site/) <img src="https://img.shields.io/badge/difficulty-beginner-green.svg">
+- [ ] [MMA CTF](https://ctf.mma.club.uec.ac.jp/) <img src="https://img.shields.io/badge/language-japanese-orange.svg">
+- [ ] [MNCTF](http://mnctf.info/) <img src="https://img.shields.io/badge/language-japanese-orange.svg">
+- [ ] [柚子胡椒CTF](https://ctf.mzyy94.com/) <img src="https://img.shields.io/badge/language-japanese-orange.svg">
+- [ ] [CpawCTF](https://ctf.cpaw.site/) <img src="https://img.shields.io/badge/difficulty-beginner-green.svg"> <img src="https://img.shields.io/badge/language-japanese-orange.svg">
 - [ ] [CpawCTF2](https://ctf2.cpaw.site/)
-- [ ] [YEHD 2015 CTF](https://2015-yehd-ctf.meiji-ncc.tech/)
+- [ ] [YEHD 2015 CTF](https://2015-yehd-ctf.meiji-ncc.tech/) <img src="https://img.shields.io/badge/language-japanese-orange.svg">
 
 
 Binary Pwning
