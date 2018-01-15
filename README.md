@@ -15,6 +15,7 @@ Legend
 - <img src="https://img.shields.io/badge/style-offline-lightgrey.svg"> downloadable challenges
 - <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg"> no scoreboard
 - <img src="https://img.shields.io/badge/status-degraded-red.svg"> bitrotted
+- <img src="https://img.shields.io/badge/language-X-orange.svg"> only playable in language X
 
 The chals below are listed with recommended ones first, then the rest in alphabetical order.
 
