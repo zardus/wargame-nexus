@@ -85,6 +85,7 @@ Binary Pwning
 - [ ] [OverTheWire Unomo](http://overthewire.org/wargames/utumno/) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [ ] [OverTheWire Vortex](http://overthewire.org/wargames/vortex/) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [ ] [ROP](https://game.rop.sh/)
+- [ ] [ROP Emporium](https://ropemporium.com/)
 
 
 Binary Reversing
