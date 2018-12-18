@@ -40,6 +40,7 @@ General
 - [ ] [ExploitExercises Nebula](https://exploit-exercises.com/nebula/) <img src="https://img.shields.io/badge/difficulty-beginner-green.svg"> <img src="https://img.shields.io/badge/style-offline-lightgrey.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [ ] [hacker.org](http://www.hacker.org/)
 - [ ] [HackerGateway](https://www.hackergateway.com/)
+- [ ] [HackMe](https://hack.me/)
 - [ ] [HackThis!!](https://www.hackthis.co.uk/)
 - [ ] [HackThisSite](https://www.hackthissite.org/)
 - [ ] [HallsOfValhalla](https://halls-of-valhalla.org/beta/)
