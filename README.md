@@ -33,6 +33,7 @@ General
 - [ ] [WeChall](http://www.wechall.net/) <img src="https://img.shields.io/badge/recommended-yes-green.svg">
 - [ ] [Backdoor](https://backdoor.sdslabs.co/challenges)
 - [ ] [Bright Shadows](http://bright-shadows.net/)
+- [ ] [CHALLENGE LAND](http://challengeland.co/)
 - [ ] [CodeEngn](http://codeengn.com/challenges/)
 - [ ] [CTFLearn](https://ctflearn.com/)
 - [ ] [ctfs.me](http://ctfs.me/)
@@ -40,6 +41,7 @@ General
 - [ ] [ExploitExercises Nebula](https://exploit-exercises.com/nebula/) <img src="https://img.shields.io/badge/difficulty-beginner-green.svg"> <img src="https://img.shields.io/badge/style-offline-lightgrey.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [ ] [hacker.org](http://www.hacker.org/)
 - [ ] [HackerGateway](https://www.hackergateway.com/)
+- [ ] [HackMe](https://hack.me/)
 - [ ] [HackThis!!](https://www.hackthis.co.uk/)
 - [ ] [HackThisSite](https://www.hackthissite.org/)
 - [ ] [HallsOfValhalla](https://halls-of-valhalla.org/beta/)
