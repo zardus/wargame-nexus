@@ -99,6 +99,7 @@ Binary Reversing
 
 Web
 
+- [ ] [alert(1) to win](https://alf.nu/alert1/)
 - [ ] [websec.fr](http://websec.fr) <img src="https://img.shields.io/badge/recommended-yes-green.svg">
 - [ ] [webhacking.kr](http://webhacking.kr/) <img src="https://img.shields.io/badge/recommended-yes-green.svg">
 - [ ] [0xf.at](https://0xf.at/)
@@ -106,6 +107,8 @@ Web
 - [ ] [HackBurger](https://hackburger.ee/)
 - [ ] [HackerTest](http://www.hackertest.net/)
 - [ ] [OverTheWire Natas](http://overthewire.org/wargames/natas/) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
+- [ ] [XSS Game](https://www.xssgame.com/)
+- [ ] [XSS game area](https://xss-game.appspot.com/)
 
 
 Crypto
