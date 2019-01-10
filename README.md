@@ -37,8 +37,8 @@ General
 - [ ] [CodeEngn](http://codeengn.com/challenges/)
 - [ ] [CTFLearn](https://ctflearn.com/)
 - [ ] [ctfs.me](http://ctfs.me/)
-- [ ] [ExploitExercises MainSequence](https://exploit-exercises.com/mainsequence/) <img src="https://img.shields.io/badge/style-offline-lightgrey.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
-- [ ] [ExploitExercises Nebula](https://exploit-exercises.com/nebula/) <img src="https://img.shields.io/badge/difficulty-beginner-green.svg"> <img src="https://img.shields.io/badge/style-offline-lightgrey.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
+- [ ] [ExploitExercises MainSequence](https://exploit.education/mainsequence/) <img src="https://img.shields.io/badge/style-offline-lightgrey.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
+- [ ] [ExploitExercises Nebula](https://exploit.education/nebula/) <img src="https://img.shields.io/badge/difficulty-beginner-green.svg"> <img src="https://img.shields.io/badge/style-offline-lightgrey.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [ ] [hacker.org](http://www.hacker.org/)
 - [ ] [HackerGateway](https://www.hackergateway.com/)
 - [ ] [HackMe](https://hack.me/)
@@ -73,8 +73,8 @@ Binary Pwning
 
 - [ ] [pwnable.kr](http://pwnable.kr) <img src="https://img.shields.io/badge/recommended-yes-green.svg">
 - [ ] [pwnable.tw](http://pwnable.tw) <img src="https://img.shields.io/badge/recommended-yes-green.svg">
-- [ ] [ExploitExercises Fusion](https://exploit-exercises.com/fusion/) <img src="https://img.shields.io/badge/difficulty-beginner-green.svg"> <img src="https://img.shields.io/badge/style-offline-lightgrey.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
-- [ ] [ExploitExercises Protostar](https://exploit-exercises.com/protostar/) <img src="https://img.shields.io/badge/difficulty-beginner-green.svg"> <img src="https://img.shields.io/badge/style-offline-lightgrey.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
+- [ ] [ExploitExercises Fusion](https://exploit.education/fusion/) <img src="https://img.shields.io/badge/difficulty-beginner-green.svg"> <img src="https://img.shields.io/badge/style-offline-lightgrey.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
+- [ ] [ExploitExercises Protostar](https://exploit.education/protostar/) <img src="https://img.shields.io/badge/difficulty-beginner-green.svg"> <img src="https://img.shields.io/badge/style-offline-lightgrey.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [ ] [IO64](http://io.netgarage.org:8064/) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [ ] [IO](https://io.netgarage.org/) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [ ] [IOarm](http://ioarm.netgarage.org/) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
