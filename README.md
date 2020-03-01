@@ -42,6 +42,7 @@ General
 - [ ] [hacker.org](http://www.hacker.org/)
 - [ ] [HackerGateway](https://www.hackergateway.com/)
 - [ ] [HackMe](https://hack.me/)
+- [ ] [HackTheBox.eu](https://hackthebox.eu)
 - [ ] [HackThis!!](https://www.hackthis.co.uk/)
 - [ ] [HackThisSite](https://www.hackthissite.org/)
 - [ ] [HallsOfValhalla](https://halls-of-valhalla.org/beta/)
