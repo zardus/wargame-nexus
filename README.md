@@ -86,6 +86,7 @@ Binary Pwning
 - [ ] [OverTheWire Narnia](http://overthewire.org/wargames/narnia/) <img src="https://img.shields.io/badge/difficulty-beginner-green.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [ ] [OverTheWire Unomo](http://overthewire.org/wargames/utumno/) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [ ] [OverTheWire Vortex](http://overthewire.org/wargames/vortex/) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
+- [ ] [Pwn.college](https://pwn.college) <img src="https://img.shields.io/badge/difficulty-beginner-green.svg">
 - [ ] [ROP](https://game.rop.sh/)
 - [ ] [ROP Emporium](https://ropemporium.com/)
 - [ ] [pwnable.xyz](https://pwnable.xyz/)
