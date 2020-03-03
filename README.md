@@ -115,6 +115,7 @@ Web
 - [ ] [OverTheWire Natas](http://overthewire.org/wargames/natas/) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [ ] [XSS Game](https://www.xssgame.com/)
 - [ ] [XSS game area](https://xss-game.appspot.com/)
+- [ ] [XSS PwnFunction](https://xss.pwnfunction.com/)
 
 
 Crypto
