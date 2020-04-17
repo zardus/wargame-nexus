@@ -99,6 +99,7 @@ Binary Reversing
 - [ ] [crackmes.one](https://crackmes.one/)
 - [ ] [crackmes.de (mirror)](https://tuts4you.com/e107_plugins/download/download.php?view.3152) <img src="https://img.shields.io/badge/style-offline-lightgrey.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 
+
 Mobile
 
 - [ ] [reyammer.io](https://challs.reyammer.io/) 
@@ -124,7 +125,7 @@ Crypto
 - [ ] [Matasano Cryptopals](https://cryptopals.com/) <img src="https://img.shields.io/badge/recommended-yes-green.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [ ] [OverTheWire Krypton](http://overthewire.org/wargames/krypton/) <img src="https://img.shields.io/badge/difficulty-beginner-green.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [ ] [SmashTheStack Blowfish](http://smashthestack.org/blowfish.html) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
-
+- [ ] [Crypto Hack](https://cryptohack.org/) <img src="https://img.shields.io/badge/recommended-yes-green.svg">
 
 Unsorted
 
