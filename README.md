@@ -33,13 +33,16 @@ General
 - [ ] [WeChall](http://www.wechall.net/) <img src="https://img.shields.io/badge/recommended-yes-green.svg">
 - [ ] [Backdoor](https://backdoor.sdslabs.co/challenges)
 - [ ] [Bright Shadows](http://bright-shadows.net/)
+- [ ] [CHALLENGE LAND](http://challengeland.co/)
 - [ ] [CodeEngn](http://codeengn.com/challenges/)
 - [ ] [CTFLearn](https://ctflearn.com/)
 - [ ] [ctfs.me](http://ctfs.me/)
-- [ ] [ExploitExercises MainSequence](https://exploit-exercises.com/mainsequence/) <img src="https://img.shields.io/badge/style-offline-lightgrey.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
-- [ ] [ExploitExercises Nebula](https://exploit-exercises.com/nebula/) <img src="https://img.shields.io/badge/difficulty-beginner-green.svg"> <img src="https://img.shields.io/badge/style-offline-lightgrey.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
+- [ ] [ExploitExercises MainSequence](https://exploit.education/mainsequence/) <img src="https://img.shields.io/badge/style-offline-lightgrey.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
+- [ ] [ExploitExercises Nebula](https://exploit.education/nebula/) <img src="https://img.shields.io/badge/difficulty-beginner-green.svg"> <img src="https://img.shields.io/badge/style-offline-lightgrey.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [ ] [hacker.org](http://www.hacker.org/)
 - [ ] [HackerGateway](https://www.hackergateway.com/)
+- [ ] [HackMe](https://hack.me/)
+- [ ] [HackTheBox.eu](https://hackthebox.eu)
 - [ ] [HackThis!!](https://www.hackthis.co.uk/)
 - [ ] [HackThisSite](https://www.hackthissite.org/)
 - [ ] [HallsOfValhalla](https://halls-of-valhalla.org/beta/)
@@ -71,8 +74,8 @@ Binary Pwning
 
 - [ ] [pwnable.kr](http://pwnable.kr) <img src="https://img.shields.io/badge/recommended-yes-green.svg">
 - [ ] [pwnable.tw](http://pwnable.tw) <img src="https://img.shields.io/badge/recommended-yes-green.svg">
-- [ ] [ExploitExercises Fusion](https://exploit-exercises.com/fusion/) <img src="https://img.shields.io/badge/difficulty-beginner-green.svg"> <img src="https://img.shields.io/badge/style-offline-lightgrey.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
-- [ ] [ExploitExercises Protostar](https://exploit-exercises.com/protostar/) <img src="https://img.shields.io/badge/difficulty-beginner-green.svg"> <img src="https://img.shields.io/badge/style-offline-lightgrey.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
+- [ ] [ExploitExercises Fusion](https://exploit.education/fusion/) <img src="https://img.shields.io/badge/difficulty-beginner-green.svg"> <img src="https://img.shields.io/badge/style-offline-lightgrey.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
+- [ ] [ExploitExercises Protostar](https://exploit.education/protostar/) <img src="https://img.shields.io/badge/difficulty-beginner-green.svg"> <img src="https://img.shields.io/badge/style-offline-lightgrey.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [ ] [IO64](http://io.netgarage.org:8064/) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [ ] [IO](https://io.netgarage.org/) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [ ] [IOarm](http://ioarm.netgarage.org/) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
@@ -84,17 +87,25 @@ Binary Pwning
 - [ ] [OverTheWire Narnia](http://overthewire.org/wargames/narnia/) <img src="https://img.shields.io/badge/difficulty-beginner-green.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [ ] [OverTheWire Unomo](http://overthewire.org/wargames/utumno/) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [ ] [OverTheWire Vortex](http://overthewire.org/wargames/vortex/) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
+- [ ] [Pwn.college](https://pwn.college) <img src="https://img.shields.io/badge/difficulty-beginner-green.svg">
 - [ ] [ROP](https://game.rop.sh/)
+- [ ] [ROP Emporium](https://ropemporium.com/)
+- [ ] [pwnable.xyz](https://pwnable.xyz/)
 
 
 Binary Reversing
 
 - [ ] [reversing.kr](http://reversing.kr) <img src="https://img.shields.io/badge/recommended-yes-green.svg">
+- [ ] [crackmes.one](https://crackmes.one/)
 - [ ] [crackmes.de (mirror)](https://tuts4you.com/e107_plugins/download/download.php?view.3152) <img src="https://img.shields.io/badge/style-offline-lightgrey.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 
+Mobile
+
+- [ ] [reyammer.io](https://challs.reyammer.io/) 
 
 Web
 
+- [ ] [alert(1) to win](https://alf.nu/alert1/)
 - [ ] [websec.fr](http://websec.fr) <img src="https://img.shields.io/badge/recommended-yes-green.svg">
 - [ ] [webhacking.kr](http://webhacking.kr/) <img src="https://img.shields.io/badge/recommended-yes-green.svg">
 - [ ] [0xf.at](https://0xf.at/)
@@ -102,6 +113,9 @@ Web
 - [ ] [HackBurger](https://hackburger.ee/)
 - [ ] [HackerTest](http://www.hackertest.net/)
 - [ ] [OverTheWire Natas](http://overthewire.org/wargames/natas/) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
+- [ ] [XSS Game](https://www.xssgame.com/)
+- [ ] [XSS game area](https://xss-game.appspot.com/)
+- [ ] [XSS PwnFunction](https://xss.pwnfunction.com/)
 
 
 Crypto
