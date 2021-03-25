@@ -25,7 +25,6 @@ Beginner
 - [ ] [OverTheWire Leviathan](http://overthewire.org/wargames/leviathan/) <img src="https://img.shields.io/badge/difficulty-beginner-green.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [ ] [SmashTheStack Blowfish](http://smashthestack.org/blowfish.html) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 
-
 General
 
 - [ ] [PicoCTF](http://picoctf.com) <img src="https://img.shields.io/badge/recommended-yes-green.svg"> <img src="https://img.shields.io/badge/difficulty-beginner-green.svg">
@@ -70,7 +69,6 @@ General
 - [ ] [YEHD 2015 CTF](https://2015-yehd-ctf.meiji-ncc.tech/) <img src="https://img.shields.io/badge/language-japanese-orange.svg">
 - [ ] [MAGURO β](https://score.maguro.run/)
 
-
 Binary Pwning
 
 - [ ] [pwnable.kr](http://pwnable.kr) <img src="https://img.shields.io/badge/recommended-yes-green.svg">
@@ -92,7 +90,6 @@ Binary Pwning
 - [ ] [ROP](https://game.rop.sh/)
 - [ ] [ROP Emporium](https://ropemporium.com/)
 - [ ] [pwnable.xyz](https://pwnable.xyz/)
-
 
 Binary Reversing
 
@@ -118,13 +115,16 @@ Web
 - [ ] [XSS game area](https://xss-game.appspot.com/)
 - [ ] [XSS PwnFunction](https://xss.pwnfunction.com/)
 
-
 Crypto
 
 - [ ] [id0-rsa](https://id0-rsa.pub/) <img src="https://img.shields.io/badge/recommended-yes-green.svg">
 - [ ] [Matasano Cryptopals](https://cryptopals.com/) <img src="https://img.shields.io/badge/recommended-yes-green.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [ ] [OverTheWire Krypton](http://overthewire.org/wargames/krypton/) <img src="https://img.shields.io/badge/difficulty-beginner-green.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [ ] [Crypto Hack](https://cryptohack.org/) <img src="https://img.shields.io/badge/recommended-yes-green.svg">
+
+Hardcore
+
+- [ ] [archive.ooo](https://archive.ooo)
 
 Unsorted
 
