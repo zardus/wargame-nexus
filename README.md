@@ -31,6 +31,7 @@ General
 - [ ] [root-me](http://root-me.org) <img src="https://img.shields.io/badge/recommended-yes-green.svg">
 - [ ] [W3Challs](https://w3challs.com/) <img src="https://img.shields.io/badge/recommended-yes-green.svg">
 - [ ] [WeChall](http://www.wechall.net/) <img src="https://img.shields.io/badge/recommended-yes-green.svg">
+- [ ] [archive.ooo](https://archive.ooo) <img src="https://img.shields.io/badge/recommended-yes-green.svg">
 - [ ] [Backdoor](https://backdoor.sdslabs.co/challenges)
 - [ ] [Bright Shadows](http://bright-shadows.net/)
 - [ ] [CHALLENGE LAND](http://challengeland.co/)
@@ -121,10 +122,6 @@ Crypto
 - [ ] [Matasano Cryptopals](https://cryptopals.com/) <img src="https://img.shields.io/badge/recommended-yes-green.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [ ] [OverTheWire Krypton](http://overthewire.org/wargames/krypton/) <img src="https://img.shields.io/badge/difficulty-beginner-green.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [ ] [Crypto Hack](https://cryptohack.org/) <img src="https://img.shields.io/badge/recommended-yes-green.svg">
-
-Hardcore
-
-- [ ] [archive.ooo](https://archive.ooo)
 
 Unsorted
 
