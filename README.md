@@ -25,13 +25,13 @@ Beginner
 - [ ] [OverTheWire Leviathan](http://overthewire.org/wargames/leviathan/) <img src="https://img.shields.io/badge/difficulty-beginner-green.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [ ] [SmashTheStack Blowfish](http://smashthestack.org/blowfish.html) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 
-
 General
 
 - [ ] [PicoCTF](http://picoctf.com) <img src="https://img.shields.io/badge/recommended-yes-green.svg"> <img src="https://img.shields.io/badge/difficulty-beginner-green.svg">
 - [ ] [root-me](http://root-me.org) <img src="https://img.shields.io/badge/recommended-yes-green.svg">
 - [ ] [W3Challs](https://w3challs.com/) <img src="https://img.shields.io/badge/recommended-yes-green.svg">
 - [ ] [WeChall](http://www.wechall.net/) <img src="https://img.shields.io/badge/recommended-yes-green.svg">
+- [ ] [archive.ooo](https://archive.ooo) <img src="https://img.shields.io/badge/recommended-yes-green.svg">
 - [ ] [Backdoor](https://backdoor.sdslabs.co/challenges)
 - [ ] [Bright Shadows](http://bright-shadows.net/)
 - [ ] [CHALLENGE LAND](http://challengeland.co/)
@@ -70,7 +70,6 @@ General
 - [ ] [YEHD 2015 CTF](https://2015-yehd-ctf.meiji-ncc.tech/) <img src="https://img.shields.io/badge/language-japanese-orange.svg">
 - [ ] [MAGURO β](https://score.maguro.run/)
 
-
 Binary Pwning
 
 - [ ] [pwnable.kr](http://pwnable.kr) <img src="https://img.shields.io/badge/recommended-yes-green.svg">
@@ -92,7 +91,6 @@ Binary Pwning
 - [ ] [ROP](https://game.rop.sh/)
 - [ ] [ROP Emporium](https://ropemporium.com/)
 - [ ] [pwnable.xyz](https://pwnable.xyz/)
-
 
 Binary Reversing
 
@@ -117,7 +115,6 @@ Web
 - [ ] [XSS Game](https://www.xssgame.com/)
 - [ ] [XSS game area](https://xss-game.appspot.com/)
 - [ ] [XSS PwnFunction](https://xss.pwnfunction.com/)
-
 
 Crypto
 
