@@ -100,7 +100,7 @@ Binary Reversing
 
 Mobile
 
-- [ ] [reyammer.io](https://challs.reyammer.io/) 
+- [ ] [reyammer.io](https://challs.reyammer.io/)
 
 Web
 
@@ -122,6 +122,11 @@ Crypto
 - [ ] [Matasano Cryptopals](https://cryptopals.com/) <img src="https://img.shields.io/badge/recommended-yes-green.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [ ] [OverTheWire Krypton](http://overthewire.org/wargames/krypton/) <img src="https://img.shields.io/badge/difficulty-beginner-green.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [ ] [Crypto Hack](https://cryptohack.org/) <img src="https://img.shields.io/badge/recommended-yes-green.svg">
+
+Cloud
+
+- [ ] [flAWS](http://flaws.cloud/) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
+- [ ] [flAWS 2](http://flaws2.cloud/) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 
 Unsorted
 
