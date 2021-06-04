@@ -130,10 +130,11 @@ Cloud
 
 Unsorted
 
+- [ ] [Ethernaut (Solidity)](https://ethernaut.zeppelin.solutions/) <img src="https://img.shields.io/badge/difficulty-beginner-green.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [ ] [IO07](http://io.netgarage.org:777/) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [ ] [SmashTheStack Amateria](http://amateria.smashthestack.org:89/) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [ ] [SmashTheStack Tux](http://tux.smashthestack.org:86/) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
-- [ ] [Ethernaut (Solidity)](https://ethernaut.zeppelin.solutions/) <img src="https://img.shields.io/badge/difficulty-beginner-green.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
+- [ ] [HackSys Extreme Vulnerable Driver](https://github.com/hacksysteam/HackSysExtremeVulnerableDriver) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 
 ## Credit
 
