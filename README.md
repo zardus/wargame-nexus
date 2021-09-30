@@ -8,7 +8,7 @@ You can aggregate your score across many of these sites by registering on [WeCha
 
 ## Wargames Listing
 
-Legend
+### Legend
 
 - <img src="https://img.shields.io/badge/recommended-yes-green.svg"> recommended wargame
 - <img src="https://img.shields.io/badge/difficulty-beginner-green.svg"> beginner difficulty
@@ -19,13 +19,13 @@ Legend
 
 The chals below are listed with recommended ones first, then the rest in alphabetical order.
 
-Beginner
+### Beginner
 
 - [ ] [OverTheWire Bandit](http://overthewire.org/wargames/bandit/) <img src="https://img.shields.io/badge/difficulty-beginner-green.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [ ] [OverTheWire Leviathan](http://overthewire.org/wargames/leviathan/) <img src="https://img.shields.io/badge/difficulty-beginner-green.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [ ] [SmashTheStack Blowfish](http://smashthestack.org/blowfish.html) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 
-General
+### General
 
 - [ ] [PicoCTF](http://picoctf.com) <img src="https://img.shields.io/badge/recommended-yes-green.svg"> <img src="https://img.shields.io/badge/difficulty-beginner-green.svg">
 - [ ] [root-me](http://root-me.org) <img src="https://img.shields.io/badge/recommended-yes-green.svg">
@@ -71,7 +71,7 @@ General
 - [ ] [YEHD 2015 CTF](https://2015-yehd-ctf.meiji-ncc.tech/) <img src="https://img.shields.io/badge/language-japanese-orange.svg">
 - [ ] [MAGURO β](https://score.maguro.run/)
 
-Binary Pwning
+### Binary Pwning
 
 - [ ] [pwnable.kr](http://pwnable.kr) <img src="https://img.shields.io/badge/recommended-yes-green.svg">
 - [ ] [pwnable.tw](http://pwnable.tw) <img src="https://img.shields.io/badge/recommended-yes-green.svg">
@@ -93,18 +93,18 @@ Binary Pwning
 - [ ] [ROP Emporium](https://ropemporium.com/)
 - [ ] [pwnable.xyz](https://pwnable.xyz/)
 
-Binary Reversing
+### Binary Reversing
 
 - [ ] [reversing.kr](http://reversing.kr) <img src="https://img.shields.io/badge/recommended-yes-green.svg">
 - [ ] [crackmes.one](https://crackmes.one/)
 - [ ] [crackmes.de (mirror)](https://tuts4you.com/e107_plugins/download/download.php?view.3152) <img src="https://img.shields.io/badge/style-offline-lightgrey.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [ ] [IOLI64](https://github.com/BinaryResearch/IOLI64) <img src="https://img.shields.io/badge/style-offline-lightgrey.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 
-Mobile
+### Mobile
 
 - [ ] [reyammer.io](https://challs.reyammer.io/)
 
-Web
+### Web
 
 - [ ] [alert(1) to win](https://alf.nu/alert1/)
 - [ ] [websec.fr](http://websec.fr) <img src="https://img.shields.io/badge/recommended-yes-green.svg">
@@ -118,19 +118,19 @@ Web
 - [ ] [XSS game area](https://xss-game.appspot.com/)
 - [ ] [XSS PwnFunction](https://xss.pwnfunction.com/)
 
-Crypto
+### Crypto
 
 - [ ] [id0-rsa](https://id0-rsa.pub/) <img src="https://img.shields.io/badge/recommended-yes-green.svg">
 - [ ] [Matasano Cryptopals](https://cryptopals.com/) <img src="https://img.shields.io/badge/recommended-yes-green.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [ ] [OverTheWire Krypton](http://overthewire.org/wargames/krypton/) <img src="https://img.shields.io/badge/difficulty-beginner-green.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [ ] [Crypto Hack](https://cryptohack.org/) <img src="https://img.shields.io/badge/recommended-yes-green.svg">
 
-Cloud
+### Cloud
 
 - [ ] [flAWS](http://flaws.cloud/) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [ ] [flAWS 2](http://flaws2.cloud/) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 
-Unsorted
+### Unsorted
 
 - [ ] [Ethernaut (Solidity)](https://ethernaut.zeppelin.solutions/) <img src="https://img.shields.io/badge/difficulty-beginner-green.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [ ] [IO07](http://io.netgarage.org:777/) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
