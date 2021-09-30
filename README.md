@@ -63,7 +63,7 @@ The chals below are listed with recommended ones first, then the rest in alphabe
 - [ ] [VulnHub](https://www.vulnhub.com/) <img src="https://img.shields.io/badge/style-offline-lightgrey.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [ ] [WTHack](https://www.onlinectf.com/challenges/) <img src="https://img.shields.io/badge/status-dead-red.svg">
 - [ ] [ksnctf](http://ksnctf.sweetduet.info/)
-- [ ] [akictf](https://ctf.katsudon.org/) <img src="https://img.shields.io/badge/status-degraded-orange.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg"> <img src="https://img.shields.io/badge/style-offline-lightgrey.svg">
+- [ ] [akictf](https://ctf.katsudon.org/) <img src="https://img.shields.io/badge/status-degraded-orange.svg"> <img src="https://img.shields.io/badge/style-offline-lightgrey.svg">
 - [ ] [MMA CTF](https://ctf.mma.club.uec.ac.jp/) <img src="https://img.shields.io/badge/language-japanese-orange.svg"> <img src="https://img.shields.io/badge/status-dead-red.svg">
 - [ ] [MNCTF](http://mnctf.info/) <img src="https://img.shields.io/badge/language-japanese-orange.svg">
 - [ ] [柚子胡椒CTF](https://ctf.mzyy94.com/) <img src="https://img.shields.io/badge/language-japanese-orange.svg">
@@ -78,6 +78,7 @@ The chals below are listed with recommended ones first, then the rest in alphabe
 - [ ] [pwnable.tw](http://pwnable.tw) <img src="https://img.shields.io/badge/recommended-yes-green.svg">
 - [ ] [ExploitExercises Fusion](https://exploit.education/fusion/) <img src="https://img.shields.io/badge/difficulty-beginner-green.svg"> <img src="https://img.shields.io/badge/style-offline-lightgrey.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [ ] [ExploitExercises Phoenix](https://exploit.education/phoenix/) <img src="https://img.shields.io/badge/difficulty-beginner-green.svg"> <img src="https://img.shields.io/badge/style-offline-lightgrey.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
+- [ ] [HackSys Extreme Vulnerable Driver](https://github.com/hacksysteam/HackSysExtremeVulnerableDriver) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [ ] [IO64](http://io.netgarage.org:8064/) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [ ] [IO](https://io.netgarage.org/) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [ ] [IOarm](http://ioarm.netgarage.org/) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg"> <img src="https://img.shields.io/badge/status-dead-red.svg">
@@ -89,8 +90,8 @@ The chals below are listed with recommended ones first, then the rest in alphabe
 - [ ] [OverTheWire Narnia](http://overthewire.org/wargames/narnia/) <img src="https://img.shields.io/badge/difficulty-beginner-green.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [ ] [OverTheWire Unomo](http://overthewire.org/wargames/utumno/) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [ ] [OverTheWire Vortex](http://overthewire.org/wargames/vortex/) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
-- [ ] [Pwn.college](https://pwn.college) <img src="https://img.shields.io/badge/difficulty-beginner-green.svg">
-- [ ] [ROP](https://game.rop.sh/)
+- [ ] [pwn.college](https://pwn.college) <img src="https://img.shields.io/badge/difficulty-beginner-green.svg">
+- [ ] [ROP.sh](https://github.com/xelenonz/game/) <img src="https://img.shields.io/badge/status-degraded-orange.svg"> <img src="https://img.shields.io/badge/style-offline-lightgrey.svg">
 - [ ] [ROP Emporium](https://ropemporium.com/)
 - [ ] [pwnable.xyz](https://pwnable.xyz/)
 
@@ -98,7 +99,7 @@ The chals below are listed with recommended ones first, then the rest in alphabe
 
 - [ ] [reversing.kr](http://reversing.kr) <img src="https://img.shields.io/badge/recommended-yes-green.svg">
 - [ ] [crackmes.one](https://crackmes.one/)
-- [ ] [crackmes.de (mirror)](https://tuts4you.com/e107_plugins/download/download.php?view.3152) <img src="https://img.shields.io/badge/style-offline-lightgrey.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
+- [ ] [crackmes.de (mirror)](http://crackmes.cf/) <img src="https://img.shields.io/badge/style-offline-lightgrey.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [ ] [IOLI64](https://github.com/BinaryResearch/IOLI64) <img src="https://img.shields.io/badge/style-offline-lightgrey.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 
 ### Mobile
@@ -112,7 +113,7 @@ The chals below are listed with recommended ones first, then the rest in alphabe
 - [ ] [webhacking.kr](http://webhacking.kr/) <img src="https://img.shields.io/badge/recommended-yes-green.svg">
 - [ ] [0xf.at](https://0xf.at/)
 - [ ] [Google Gruyere](http://google-gruyere.appspot.com/) <img src="https://img.shields.io/badge/difficulty-beginner-green.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
-- [ ] [HackBurger](https://hackburger.ee/)
+- [ ] [HackBurger](https://hackburger.ee/) <img src="https://img.shields.io/badge/status-dead-red.svg">
 - [ ] [HackerTest](http://www.hackertest.net/)
 - [ ] [OverTheWire Natas](http://overthewire.org/wargames/natas/) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [ ] [XSS Game](https://www.xssgame.com/)
@@ -125,6 +126,8 @@ The chals below are listed with recommended ones first, then the rest in alphabe
 - [ ] [Matasano Cryptopals](https://cryptopals.com/) <img src="https://img.shields.io/badge/recommended-yes-green.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [ ] [OverTheWire Krypton](http://overthewire.org/wargames/krypton/) <img src="https://img.shields.io/badge/difficulty-beginner-green.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [ ] [Crypto Hack](https://cryptohack.org/) <img src="https://img.shields.io/badge/recommended-yes-green.svg">
+- [ ] [Ethernaut (Solidity)](https://ethernaut.zeppelin.solutions/) <img src="https://img.shields.io/badge/difficulty-beginner-green.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
+
 
 ### Cloud
 
@@ -133,11 +136,9 @@ The chals below are listed with recommended ones first, then the rest in alphabe
 
 ### Unsorted
 
-- [ ] [Ethernaut (Solidity)](https://ethernaut.zeppelin.solutions/) <img src="https://img.shields.io/badge/difficulty-beginner-green.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [ ] [IO07](http://io.netgarage.org:777/) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [ ] [SmashTheStack Amateria](http://amateria.smashthestack.org:89/) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [ ] [SmashTheStack Tux](http://tux.smashthestack.org:86/) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
-- [ ] [HackSys Extreme Vulnerable Driver](https://github.com/hacksysteam/HackSysExtremeVulnerableDriver) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 
 ## Credit
 
@@ -150,3 +151,4 @@ They are:
 - http://www.wechall.net/sites.php
 - http://ctf.forgottensec.com/wiki/index.php?title=Main_Page
 - https://github.com/carpedm20/awesome-hacking
+- https://csea-iitb.github.io/IITBreachers-wiki/2020/08/01/Hacking-Sites.html
