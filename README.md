@@ -80,7 +80,7 @@ The chals below are listed with recommended ones first, then the rest in alphabe
 - [ ] [ExploitExercises Phoenix](https://exploit.education/phoenix/) <img src="https://img.shields.io/badge/difficulty-beginner-green.svg"> <img src="https://img.shields.io/badge/style-offline-lightgrey.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [ ] [IO64](http://io.netgarage.org:8064/) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [ ] [IO](https://io.netgarage.org/) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
-- [ ] [IOarm](http://ioarm.netgarage.org/) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
+- [ ] [IOarm](http://ioarm.netgarage.org/) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg"> <img src="https://img.shields.io/badge/status-dead-red.svg">
 - [ ] [Microcorruption](https://microcorruption.com/login)
 - [ ] [OverTheWire Behemoth](http://overthewire.org/wargames/behemoth/) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [ ] [OverTheWire Drifter](http://overthewire.org/wargames/drifter/) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
