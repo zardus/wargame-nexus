@@ -14,7 +14,8 @@ You can aggregate your score across many of these sites by registering on [WeCha
 - <img src="https://img.shields.io/badge/difficulty-beginner-green.svg"> beginner difficulty
 - <img src="https://img.shields.io/badge/style-offline-lightgrey.svg"> downloadable challenges
 - <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg"> no scoreboard
-- <img src="https://img.shields.io/badge/status-degraded-red.svg"> bitrotted
+- <img src="https://img.shields.io/badge/status-degraded-orange.svg"> bitrotted
+- <img src="https://img.shields.io/badge/status-dead-red.svg"> dead
 - <img src="https://img.shields.io/badge/language-X-orange.svg"> only playable in language X
 
 The chals below are listed with recommended ones first, then the rest in alphabetical order.
@@ -34,7 +35,7 @@ The chals below are listed with recommended ones first, then the rest in alphabe
 - [ ] [archive.ooo](https://archive.ooo) <img src="https://img.shields.io/badge/recommended-yes-green.svg">
 - [ ] [Backdoor](https://backdoor.sdslabs.co/challenges)
 - [ ] [Bright Shadows](http://bright-shadows.net/)
-- [ ] [CHALLENGE LAND](http://challengeland.co/)
+- [ ] [CHALLENGE LAND](http://challengeland.co/) <img src="https://img.shields.io/badge/status-dead-red.svg">
 - [ ] [CodeEngn](http://codeengn.com/challenges/)
 - [ ] [CTFLearn](https://ctflearn.com/)
 - [ ] [ctfs.me](http://ctfs.me/)
@@ -47,7 +48,7 @@ The chals below are listed with recommended ones first, then the rest in alphabe
 - [ ] [HackThis!!](https://www.hackthis.co.uk/)
 - [ ] [HackThisSite](https://www.hackthissite.org/)
 - [ ] [HallsOfValhalla](https://halls-of-valhalla.org/beta/)
-- [ ] [hax.tor](http://hax.tor.hu/welcome/) <img src="https://img.shields.io/badge/status-degraded-red.svg">
+- [ ] [hax.tor](http://hax.tor.hu/welcome/) <img src="https://img.shields.io/badge/status-degraded-orange.svg">
 - [ ] [HellBound Hackers](https://www.hellboundhackers.org/)
 - [ ] [Komodo CTF](http://ctf.komodosec.com/)
 - [ ] [Ma's Reversing](http://3564020356.org/) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
