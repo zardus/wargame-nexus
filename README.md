@@ -131,6 +131,7 @@ The chals below are listed with recommended ones first, then the rest in alphabe
 - [ ] [SmashTheStack Tux](http://tux.smashthestack.org:86/) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [ ] [Viblo](https://ctf.viblo.asia/landing)
 - [ ] [Defend the Web](https://defendtheweb.net/?hackthis)
+- [ ] [CTF 101](https://ctf101.org/)
 
 ### Gone, but not forgotten
 
