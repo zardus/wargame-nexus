@@ -53,7 +53,7 @@ The chals below are listed with recommended ones first, then the rest in alphabe
 - [ ] [Komodo CTF](http://ctf.komodosec.com/)
 - [ ] [Ma's Reversing](http://3564020356.org/) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [ ] [Mod-X](http://www.mod-x.co.uk/main.php) <img src="https://img.shields.io/badge/status-dead-red.svg">
-- [ ] [Net-Force](https://net-force.nl/)
+- [ ] [Net-Force](https://net-force.nl/) <img src="https://img.shields.io/badge/status-dead-red.svg">
 - [ ] [NewbieContest](https://www.newbiecontest.org/)
 - [ ] [OverTheWire Semtex](http://overthewire.org/wargames/semtex/)
 - [ ] [0x539](https://0x0539.net/)
