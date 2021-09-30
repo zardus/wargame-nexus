@@ -38,7 +38,7 @@ The chals below are listed with recommended ones first, then the rest in alphabe
 - [ ] [CHALLENGE LAND](http://challengeland.co/) <img src="https://img.shields.io/badge/status-dead-red.svg">
 - [ ] [CodeEngn](http://ch.codeengn.com/) <img src="https://img.shields.io/badge/language-korean-orange.svg">
 - [ ] [CTFLearn](https://ctflearn.com/)
-- [ ] [ctfs.me](http://ctfs.me/)
+- [ ] [ctfs.me](http://ctfs.me/) <img src="https://img.shields.io/badge/status-dead-red.svg">
 - [ ] [ExploitExercises MainSequence](https://exploit.education/mainsequence/) <img src="https://img.shields.io/badge/style-offline-lightgrey.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [ ] [ExploitExercises Nebula](https://exploit.education/nebula/) <img src="https://img.shields.io/badge/difficulty-beginner-green.svg"> <img src="https://img.shields.io/badge/style-offline-lightgrey.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [ ] [hacker.org](http://www.hacker.org/)
