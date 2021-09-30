@@ -34,11 +34,8 @@ The chals below are listed with recommended ones first, then the rest in alphabe
 - [ ] [WeChall](http://www.wechall.net/) <img src="https://img.shields.io/badge/recommended-yes-green.svg">
 - [ ] [archive.ooo](https://archive.ooo) <img src="https://img.shields.io/badge/recommended-yes-green.svg">
 - [ ] [Backdoor](https://backdoor.sdslabs.co/challenges)
-- [ ] [Bright Shadows](http://bright-shadows.net/) <img src="https://img.shields.io/badge/status-dead-red.svg">
-- [ ] [CHALLENGE LAND](http://challengeland.co/) <img src="https://img.shields.io/badge/status-dead-red.svg">
 - [ ] [CodeEngn](http://ch.codeengn.com/) <img src="https://img.shields.io/badge/language-korean-orange.svg">
 - [ ] [CTFLearn](https://ctflearn.com/)
-- [ ] [ctfs.me](http://ctfs.me/) <img src="https://img.shields.io/badge/status-dead-red.svg">
 - [ ] [ExploitExercises Main Sequence](https://exploit.education/main-sequence/) <img src="https://img.shields.io/badge/style-offline-lightgrey.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [ ] [ExploitExercises Nebula](https://exploit.education/nebula/) <img src="https://img.shields.io/badge/difficulty-beginner-green.svg"> <img src="https://img.shields.io/badge/style-offline-lightgrey.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [ ] [hacker.org](http://www.hacker.org/)
@@ -52,19 +49,14 @@ The chals below are listed with recommended ones first, then the rest in alphabe
 - [ ] [HellBound Hackers](https://www.hellboundhackers.org/)
 - [ ] [Komodo CTF](http://ctf.komodosec.com/)
 - [ ] [Ma's Reversing](http://3564020356.org/) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
-- [ ] [Mod-X](http://www.mod-x.co.uk/main.php) <img src="https://img.shields.io/badge/status-dead-red.svg">
-- [ ] [Net-Force](https://net-force.nl/) <img src="https://img.shields.io/badge/status-dead-red.svg">
 - [ ] [NewbieContest](https://www.newbiecontest.org/)
 - [ ] [OverTheWire Semtex](http://overthewire.org/wargames/semtex/)
 - [ ] [0x539](https://0x0539.net/)
 - [ ] [RingZer0Team Online CTF](https://ringzer0team.com/home)
 - [ ] [SmashTheStack Logic](http://logic.smashthestack.org:88/) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
-- [ ] [The Enigma Group](https://www.enigmagroup.org/) <img src="https://img.shields.io/badge/status-dead-red.svg">
 - [ ] [VulnHub](https://www.vulnhub.com/) <img src="https://img.shields.io/badge/style-offline-lightgrey.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
-- [ ] [WTHack](https://www.onlinectf.com/challenges/) <img src="https://img.shields.io/badge/status-dead-red.svg">
 - [ ] [ksnctf](http://ksnctf.sweetduet.info/)
 - [ ] [akictf](https://ctf.katsudon.org/) <img src="https://img.shields.io/badge/status-degraded-orange.svg"> <img src="https://img.shields.io/badge/style-offline-lightgrey.svg">
-- [ ] [MMA CTF](https://ctf.mma.club.uec.ac.jp/) <img src="https://img.shields.io/badge/language-japanese-orange.svg"> <img src="https://img.shields.io/badge/status-dead-red.svg">
 - [ ] [MNCTF](http://mnctf.info/) <img src="https://img.shields.io/badge/language-japanese-orange.svg">
 - [ ] [柚子胡椒CTF](https://ctf.mzyy94.com/) <img src="https://img.shields.io/badge/language-japanese-orange.svg">
 - [ ] [CpawCTF](https://ctf.cpaw.site/) <img src="https://img.shields.io/badge/difficulty-beginner-green.svg"> <img src="https://img.shields.io/badge/language-japanese-orange.svg">
@@ -81,7 +73,6 @@ The chals below are listed with recommended ones first, then the rest in alphabe
 - [ ] [HackSys Extreme Vulnerable Driver](https://github.com/hacksysteam/HackSysExtremeVulnerableDriver) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [ ] [IO64](http://io.netgarage.org:8064/) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [ ] [IO](https://io.netgarage.org/) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
-- [ ] [IOarm](http://ioarm.netgarage.org/) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg"> <img src="https://img.shields.io/badge/status-dead-red.svg">
 - [ ] [Microcorruption](https://microcorruption.com/login)
 - [ ] [OverTheWire Behemoth](http://overthewire.org/wargames/behemoth/) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [ ] [OverTheWire Drifter](http://overthewire.org/wargames/drifter/) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
@@ -113,7 +104,6 @@ The chals below are listed with recommended ones first, then the rest in alphabe
 - [ ] [webhacking.kr](http://webhacking.kr/) <img src="https://img.shields.io/badge/recommended-yes-green.svg">
 - [ ] [0xf.at](https://0xf.at/)
 - [ ] [Google Gruyere](http://google-gruyere.appspot.com/) <img src="https://img.shields.io/badge/difficulty-beginner-green.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
-- [ ] [HackBurger](https://hackburger.ee/) <img src="https://img.shields.io/badge/status-dead-red.svg">
 - [ ] [HackerTest](http://www.hackertest.net/)
 - [ ] [OverTheWire Natas](http://overthewire.org/wargames/natas/) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [ ] [XSS Game](https://www.xssgame.com/)
@@ -139,6 +129,20 @@ The chals below are listed with recommended ones first, then the rest in alphabe
 - [ ] [IO07](http://io.netgarage.org:777/) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [ ] [SmashTheStack Amateria](http://amateria.smashthestack.org:89/) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [ ] [SmashTheStack Tux](http://tux.smashthestack.org:86/) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
+
+### Gone, but not forgotten
+
+- [ ] [Bright Shadows](http://bright-shadows.net/) <img src="https://img.shields.io/badge/status-dead-red.svg">
+- [ ] [CHALLENGE LAND](http://challengeland.co/) <img src="https://img.shields.io/badge/status-dead-red.svg">
+- [ ] [ctfs.me](http://ctfs.me/) <img src="https://img.shields.io/badge/status-dead-red.svg">
+- [ ] [HackBurger](https://hackburger.ee/) <img src="https://img.shields.io/badge/status-dead-red.svg">
+- [ ] [IOarm](http://ioarm.netgarage.org/) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg"> <img src="https://img.shields.io/badge/status-dead-red.svg">
+- [ ] [Mod-X](http://www.mod-x.co.uk/main.php) <img src="https://img.shields.io/badge/status-dead-red.svg">
+- [ ] [Net-Force](https://net-force.nl/) <img src="https://img.shields.io/badge/status-dead-red.svg">
+- [ ] [The Enigma Group](https://www.enigmagroup.org/) <img src="https://img.shields.io/badge/status-dead-red.svg">
+- [ ] [WTHack](https://www.onlinectf.com/challenges/) <img src="https://img.shields.io/badge/status-dead-red.svg">
+- [ ] [MMA CTF](https://ctf.mma.club.uec.ac.jp/) <img src="https://img.shields.io/badge/language-japanese-orange.svg"> <img src="https://img.shields.io/badge/status-dead-red.svg">
+
 
 ## Credit
 
