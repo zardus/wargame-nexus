@@ -55,6 +55,7 @@ General
 - [ ] [Net-Force](https://net-force.nl/)
 - [ ] [NewbieContest](https://www.newbiecontest.org/)
 - [ ] [OverTheWire Semtex](http://overthewire.org/wargames/semtex/)
+- [ ] [0x539](https://0x0539.net/)
 - [ ] [RingZer0Team Online CTF](https://ringzer0team.com/home)
 - [ ] [SmashTheStack Logic](http://logic.smashthestack.org:88/) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [ ] [The Enigma Group](https://www.enigmagroup.org/)
