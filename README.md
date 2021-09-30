@@ -36,13 +36,13 @@ The chals below are listed with recommended ones first, then the rest in alphabe
 - [ ] [Backdoor](https://backdoor.sdslabs.co/challenges)
 - [ ] [CodeEngn](http://ch.codeengn.com/) <img src="https://img.shields.io/badge/language-korean-orange.svg">
 - [ ] [CTFLearn](https://ctflearn.com/)
+- [ ] [Defend the Web](https://defendtheweb.net/?hackthis)
 - [ ] [ExploitExercises Main Sequence](https://exploit.education/main-sequence/) <img src="https://img.shields.io/badge/style-offline-lightgrey.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [ ] [ExploitExercises Nebula](https://exploit.education/nebula/) <img src="https://img.shields.io/badge/difficulty-beginner-green.svg"> <img src="https://img.shields.io/badge/style-offline-lightgrey.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [ ] [hacker.org](http://www.hacker.org/)
 - [ ] [HackerGateway](https://www.hackergateway.com/)
 - [ ] [HackMe](https://hack.me/)
 - [ ] [HackTheBox.eu](https://hackthebox.eu)
-- [ ] [HackThis!!](https://www.hackthis.co.uk/)
 - [ ] [HackThisSite](https://www.hackthissite.org/)
 - [ ] [HallsOfValhalla](https://halls-of-valhalla.org/beta/)
 - [ ] [hax.tor](http://hax.tor.hu/welcome/) <img src="https://img.shields.io/badge/status-degraded-orange.svg">
@@ -130,7 +130,6 @@ The chals below are listed with recommended ones first, then the rest in alphabe
 - [ ] [SmashTheStack Amateria](http://amateria.smashthestack.org:89/) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [ ] [SmashTheStack Tux](http://tux.smashthestack.org:86/) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [ ] [Viblo](https://ctf.viblo.asia/landing)
-- [ ] [Defend the Web](https://defendtheweb.net/?hackthis)
 - [ ] [CTF 101](https://ctf101.org/)
 
 ### Gone, but not forgotten
