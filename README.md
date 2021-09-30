@@ -34,7 +34,7 @@ The chals below are listed with recommended ones first, then the rest in alphabe
 - [ ] [WeChall](http://www.wechall.net/) <img src="https://img.shields.io/badge/recommended-yes-green.svg">
 - [ ] [archive.ooo](https://archive.ooo) <img src="https://img.shields.io/badge/recommended-yes-green.svg">
 - [ ] [Backdoor](https://backdoor.sdslabs.co/challenges)
-- [ ] [Bright Shadows](http://bright-shadows.net/)
+- [ ] [Bright Shadows](http://bright-shadows.net/) <img src="https://img.shields.io/badge/status-dead-red.svg">
 - [ ] [CHALLENGE LAND](http://challengeland.co/) <img src="https://img.shields.io/badge/status-dead-red.svg">
 - [ ] [CodeEngn](http://codeengn.com/challenges/)
 - [ ] [CTFLearn](https://ctflearn.com/)
