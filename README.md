@@ -59,12 +59,12 @@ The chals below are listed with recommended ones first, then the rest in alphabe
 - [ ] [0x539](https://0x0539.net/)
 - [ ] [RingZer0Team Online CTF](https://ringzer0team.com/home)
 - [ ] [SmashTheStack Logic](http://logic.smashthestack.org:88/) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
-- [ ] [The Enigma Group](https://www.enigmagroup.org/)
+- [ ] [The Enigma Group](https://www.enigmagroup.org/) <img src="https://img.shields.io/badge/status-dead-red.svg">
 - [ ] [VulnHub](https://www.vulnhub.com/) <img src="https://img.shields.io/badge/style-offline-lightgrey.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
-- [ ] [WTHack](https://www.onlinectf.com/challenges/)
+- [ ] [WTHack](https://www.onlinectf.com/challenges/) <img src="https://img.shields.io/badge/status-dead-red.svg">
 - [ ] [ksnctf](http://ksnctf.sweetduet.info/)
-- [ ] [akictf](https://ctf.katsudon.org/)
-- [ ] [MMA CTF](https://ctf.mma.club.uec.ac.jp/) <img src="https://img.shields.io/badge/language-japanese-orange.svg">
+- [ ] [akictf](https://ctf.katsudon.org/) <img src="https://img.shields.io/badge/status-degraded-orange.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg"> <img src="https://img.shields.io/badge/style-offline-lightgrey.svg">
+- [ ] [MMA CTF](https://ctf.mma.club.uec.ac.jp/) <img src="https://img.shields.io/badge/language-japanese-orange.svg"> <img src="https://img.shields.io/badge/status-dead-red.svg">
 - [ ] [MNCTF](http://mnctf.info/) <img src="https://img.shields.io/badge/language-japanese-orange.svg">
 - [ ] [柚子胡椒CTF](https://ctf.mzyy94.com/) <img src="https://img.shields.io/badge/language-japanese-orange.svg">
 - [ ] [CpawCTF](https://ctf.cpaw.site/) <img src="https://img.shields.io/badge/difficulty-beginner-green.svg"> <img src="https://img.shields.io/badge/language-japanese-orange.svg">
