@@ -36,7 +36,7 @@ The chals below are listed with recommended ones first, then the rest in alphabe
 - [ ] [Backdoor](https://backdoor.sdslabs.co/challenges)
 - [ ] [Bright Shadows](http://bright-shadows.net/) <img src="https://img.shields.io/badge/status-dead-red.svg">
 - [ ] [CHALLENGE LAND](http://challengeland.co/) <img src="https://img.shields.io/badge/status-dead-red.svg">
-- [ ] [CodeEngn](http://codeengn.com/challenges/)
+- [ ] [CodeEngn](http://ch.codeengn.com/) <img src="https://img.shields.io/badge/language-korean-orange.svg">
 - [ ] [CTFLearn](https://ctflearn.com/)
 - [ ] [ctfs.me](http://ctfs.me/)
 - [ ] [ExploitExercises MainSequence](https://exploit.education/mainsequence/) <img src="https://img.shields.io/badge/style-offline-lightgrey.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
