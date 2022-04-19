@@ -133,6 +133,12 @@ The chals below are listed with recommended ones first, then the rest in alphabe
 - [ ] [Viblo](https://ctf.viblo.asia/landing)
 - [ ] [CTF 101](https://ctf101.org/)
 
+### Not Security
+
+Developing some core CS skills can be useful for security as well!
+
+- [ ] [Tensor Puzzles](https://github.com/srush/Tensor-Puzzles)
+
 ### Gone, but not forgotten
 
 - [ ] [Bright Shadows](http://bright-shadows.net/) <img src="https://img.shields.io/badge/status-dead-red.svg">
