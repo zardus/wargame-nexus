@@ -42,7 +42,7 @@ The chals below are listed with recommended ones first, then the rest in alphabe
 - [ ] [hacker.org](http://www.hacker.org/)
 - [ ] [HackerGateway](https://www.hackergateway.com/)
 - [ ] [HackMe](https://hack.me/)
-- [ ] [HackTheBox](https://hackthebox.com)
+- [ ] [HackTheBox](https://www.hackthebox.com)
 - [ ] [HackThisSite](https://www.hackthissite.org/)
 - [ ] [HallsOfValhalla](https://halls-of-valhalla.org/beta/)
 - [ ] [hax.tor](http://hax.tor.hu/welcome/) <img src="https://img.shields.io/badge/status-degraded-orange.svg">

@@ -1,7 +1,11 @@
 #!/usr/bin/env python3
 
 import requests
-import os
+import urllib3
+import sys
+
+# ugh
+urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 failed = [ ]
 for line in open("README.md"):
@@ -16,7 +20,7 @@ for line in open("README.md"):
 
     print(f"[+] Testing {name} - {url}")
     try:
-        r = requests.get(url, timeout=10)
+        r = requests.get(url, timeout=10, verify=False)
     except requests.RequestException as e:
         print(f"!!! Received exception {e}")
         failed.append((name, url))
@@ -27,4 +31,4 @@ for line in open("README.md"):
 for n,u in failed:
     print(f"FAILED: {n} - {u}")
 if failed:
-    os.exit(1)
+    sys.exit(1)
