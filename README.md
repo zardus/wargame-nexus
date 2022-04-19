@@ -104,7 +104,7 @@ The chals below are listed with recommended ones first, then the rest in alphabe
 - [ ] [webhacking.kr](http://webhacking.kr/) <img src="https://img.shields.io/badge/recommended-yes-green.svg">
 - [ ] [0xf.at](https://0xf.at/)
 - [ ] [Google Gruyere](http://google-gruyere.appspot.com/) <img src="https://img.shields.io/badge/difficulty-beginner-green.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
-- [ ] [HackerTest](http://www.hackertest.net/)
+- [ ] [HackerTest](https://www.hackertest.net/)
 - [ ] [OverTheWire Natas](http://overthewire.org/wargames/natas/) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [ ] [Stereotyped Challenges](https://chall.stypr.com)
 - [ ] [XSS Game](https://www.xssgame.com/)
