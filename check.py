@@ -20,7 +20,7 @@ for line in open("README.md"):
 
     print(f"[+] Testing {name} - {url}")
     try:
-        r = requests.get(url, timeout=10, verify=False)
+        r = requests.get(url, timeout=10, verify=False, headers={'User-agent': 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:99.0) Gecko/20100101 Firefox/99.0'})
     except requests.RequestException as e:
         print(f"!!! Received exception {e}")
         failed.append((name, url))
