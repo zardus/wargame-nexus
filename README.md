@@ -33,7 +33,6 @@ The chals below are listed with recommended ones first, then the rest in alphabe
 - [ ] [W3Challs](https://w3challs.com/) <img src="https://img.shields.io/badge/recommended-yes-green.svg">
 - [ ] [WeChall](http://www.wechall.net/) <img src="https://img.shields.io/badge/recommended-yes-green.svg">
 - [ ] [archive.ooo](https://archive.ooo) <img src="https://img.shields.io/badge/recommended-yes-green.svg">
-- [ ] [Backdoor](https://backdoor.sdslabs.co/challenges)
 - [ ] [CodeEngn](http://ch.codeengn.com/) <img src="https://img.shields.io/badge/language-korean-orange.svg">
 - [ ] [CTFLearn](https://ctflearn.com/)
 - [ ] [Defend the Web](https://defendtheweb.net/?hackthis)
@@ -41,11 +40,9 @@ The chals below are listed with recommended ones first, then the rest in alphabe
 - [ ] [ExploitExercises Nebula](https://exploit.education/nebula/) <img src="https://img.shields.io/badge/difficulty-beginner-green.svg"> <img src="https://img.shields.io/badge/style-offline-lightgrey.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [ ] [hacker.org](http://www.hacker.org/)
 - [ ] [HackerGateway](https://www.hackergateway.com/)
-- [ ] [HackMe](https://hack.me/)
 - [ ] [HackTheBox](https://www.hackthebox.com)
 - [ ] [HackThisSite](https://www.hackthissite.org/)
 - [ ] [HallsOfValhalla](https://halls-of-valhalla.org/beta/)
-- [ ] [hax.tor](http://hax.tor.hu/welcome/) <img src="https://img.shields.io/badge/status-degraded-orange.svg">
 - [ ] [HellBound Hackers](https://www.hellboundhackers.org/)
 - [ ] [Komodo CTF](http://ctf.komodosec.com/)
 - [ ] [Ma's Reversing](http://3564020356.org/) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
@@ -142,10 +139,13 @@ Developing some core CS skills can be useful for security as well!
 
 ### Gone, but not forgotten
 
+- [ ] [Backdoor](https://backdoor.sdslabs.co/challenges)
 - [ ] [Bright Shadows](http://bright-shadows.net/) <img src="https://img.shields.io/badge/status-dead-red.svg">
 - [ ] [CHALLENGE LAND](http://challengeland.co/) <img src="https://img.shields.io/badge/status-dead-red.svg">
 - [ ] [ctfs.me](http://ctfs.me/) <img src="https://img.shields.io/badge/status-dead-red.svg">
 - [ ] [HackBurger](https://hackburger.ee/) <img src="https://img.shields.io/badge/status-dead-red.svg">
+- [ ] [HackMe](https://hack.me/)
+- [ ] [hax.tor](http://hax.tor.hu/welcome/) <img src="https://img.shields.io/badge/status-degraded-orange.svg">
 - [ ] [IOarm](http://ioarm.netgarage.org/) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg"> <img src="https://img.shields.io/badge/status-dead-red.svg">
 - [ ] [Net-Force](https://net-force.nl/) <img src="https://img.shields.io/badge/status-dead-red.svg">
 - [ ] [The Enigma Group](https://www.enigmagroup.org/) <img src="https://img.shields.io/badge/status-dead-red.svg">
