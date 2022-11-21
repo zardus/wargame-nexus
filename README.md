@@ -38,7 +38,7 @@ The chals below are listed with recommended ones first, then the rest in alphabe
 - [ ] [Defend the Web](https://defendtheweb.net/?hackthis)
 - [ ] [ExploitExercises Main Sequence](https://exploit.education/main-sequence/) <img src="https://img.shields.io/badge/style-offline-lightgrey.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [ ] [ExploitExercises Nebula](https://exploit.education/nebula/) <img src="https://img.shields.io/badge/difficulty-beginner-green.svg"> <img src="https://img.shields.io/badge/style-offline-lightgrey.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
-- [ ] [https://flagyard.com/](https://flagyard.com/)
+- [ ] [Flagyard](https://flagyard.com/)
 - [ ] [hacker.org](http://www.hacker.org/)
 - [ ] [HackerGateway](https://www.hackergateway.com/)
 - [ ] [HackTheBox](https://www.hackthebox.com)
