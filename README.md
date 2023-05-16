@@ -92,6 +92,10 @@ The chals below are listed with recommended ones first, then the rest in alphabe
 - [ ] [crackmes.de (mirror)](http://crackmes.cf/) <img src="https://img.shields.io/badge/style-offline-lightgrey.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [ ] [IOLI64](https://github.com/BinaryResearch/IOLI64) <img src="https://img.shields.io/badge/style-offline-lightgrey.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 
+### Machine Learning
+
+- [ ] [Gandalf](https://gandalf.lakera.ai/)
+
 ### Mobile
 
 - [ ] [reyammer.io](https://challs.reyammer.io/)
