@@ -95,6 +95,7 @@ The chals below are listed with recommended ones first, then the rest in alphabe
 ### Prompt Injection
 
 - [ ] [Gandalf](https://gandalf.lakera.ai/)
+- [ ] [GPT Prompt Attack](https://gpa.43z.one)
 
 ### Mobile
 
