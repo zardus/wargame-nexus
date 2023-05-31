@@ -1,4 +1,4 @@
-# wargame-nexus
+# Welcome to the Wargame Nexus
 
 This is an organized, [PR-able](https://github.com/zardus/wargame-nexus) list of wargame sites.
 If you know of a (reasonable) wargame site not on this list (and there are definitely some), shoot me a PR.
