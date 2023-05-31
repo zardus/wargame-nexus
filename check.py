@@ -11,11 +11,11 @@ failed = [ ]
 for line in open("README.md"):
     if "Gone, but not" in line:
         break
-    if not line.startswith("- [ ]") or "http" not in line:
+    if not line.startswith("- [") or "http" not in line:
         continue
         
-    name = line.split("]")[1].strip(" [")
-    url = line.split("]")[2][1:].split(")")[0]
+    name = line.strip("- [").split("]")[0]
+    url = line.split("]")[1][1:].split(")")[0]
     assert url.startswith("http"), f"Line '{line}' not parsed into name and URL."
 
     print(f"[+] Testing {name} - {url}")

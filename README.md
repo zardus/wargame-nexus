@@ -149,18 +149,18 @@ Developing some core CS skills can be useful for security as well!
 
 ### Gone, but not forgotten
 
-- [Backdoor](https://backdoor.sdslabs.co/challenges)
-- [Bright Shadows](http://bright-shadows.net/) <img src="https://img.shields.io/badge/status-dead-red.svg">
-- [CHALLENGE LAND](http://challengeland.co/) <img src="https://img.shields.io/badge/status-dead-red.svg">
-- [ctfs.me](http://ctfs.me/) <img src="https://img.shields.io/badge/status-dead-red.svg">
-- [HackBurger](https://hackburger.ee/) <img src="https://img.shields.io/badge/status-dead-red.svg">
-- [HackMe](https://hack.me/)
-- [hax.tor](http://hax.tor.hu/welcome/) <img src="https://img.shields.io/badge/status-degraded-orange.svg">
-- [IOarm](http://ioarm.netgarage.org/) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg"> <img src="https://img.shields.io/badge/status-dead-red.svg">
-- [Net-Force](https://net-force.nl/) <img src="https://img.shields.io/badge/status-dead-red.svg">
-- [The Enigma Group](https://www.enigmagroup.org/) <img src="https://img.shields.io/badge/status-dead-red.svg">
-- [WTHack](https://www.onlinectf.com/challenges/) <img src="https://img.shields.io/badge/status-dead-red.svg">
-- [MMA CTF](https://ctf.mma.club.uec.ac.jp/) <img src="https://img.shields.io/badge/language-japanese-orange.svg"> <img src="https://img.shields.io/badge/status-dead-red.svg">
+-  [Backdoor](https://backdoor.sdslabs.co/challenges)
+-  [Bright Shadows](http://bright-shadows.net/) <img src="https://img.shields.io/badge/status-dead-red.svg">
+-  [CHALLENGE LAND](http://challengeland.co/) <img src="https://img.shields.io/badge/status-dead-red.svg">
+-  [ctfs.me](http://ctfs.me/) <img src="https://img.shields.io/badge/status-dead-red.svg">
+-  [HackBurger](https://hackburger.ee/) <img src="https://img.shields.io/badge/status-dead-red.svg">
+-  [HackMe](https://hack.me/)
+-  [hax.tor](http://hax.tor.hu/welcome/) <img src="https://img.shields.io/badge/status-degraded-orange.svg">
+-  [IOarm](http://ioarm.netgarage.org/) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg"> <img src="https://img.shields.io/badge/status-dead-red.svg">
+-  [Net-Force](https://net-force.nl/) <img src="https://img.shields.io/badge/status-dead-red.svg">
+-  [The Enigma Group](https://www.enigmagroup.org/) <img src="https://img.shields.io/badge/status-dead-red.svg">
+-  [WTHack](https://www.onlinectf.com/challenges/) <img src="https://img.shields.io/badge/status-dead-red.svg">
+-  [MMA CTF](https://ctf.mma.club.uec.ac.jp/) <img src="https://img.shields.io/badge/language-japanese-orange.svg"> <img src="https://img.shields.io/badge/status-dead-red.svg">
 
 
 ## Credit
@@ -169,9 +169,9 @@ I acquired the links here over a very long career.
 At some point, I started noting down resources that led me to these links.
 They are:
 
-- [https://medium.com/@a.hilton83/learning-resources-a0a859bf9dbd](https://medium.com/@a.hilton83/learning-resources-a0a859bf9dbd)
-- [http://captf.com/practice-ctf/](http://captf.com/practice-ctf/)
-- [http://www.wechall.net/sites.php](http://www.wechall.net/sites.php)
-- [http://ctf.forgottensec.com/wiki/index.php?title=Main_Page](http://ctf.forgottensec.com/wiki/index.php?title=Main_Page)
-- [https://github.com/carpedm20/awesome-hacking](https://github.com/carpedm20/awesome-hacking)
-- [https://csea-iitb.github.io/IITBreachers-wiki/2020/08/01/Hacking-Sites.html](https://csea-iitb.github.io/IITBreachers-wiki/2020/08/01/Hacking-Sites.html)
+-  [https://medium.com/@a.hilton83/learning-resources-a0a859bf9dbd](https://medium.com/@a.hilton83/learning-resources-a0a859bf9dbd)
+-  [http://captf.com/practice-ctf/](http://captf.com/practice-ctf/)
+-  [http://www.wechall.net/sites.php](http://www.wechall.net/sites.php)
+-  [http://ctf.forgottensec.com/wiki/index.php?title=Main_Page](http://ctf.forgottensec.com/wiki/index.php?title=Main_Page)
+-  [https://github.com/carpedm20/awesome-hacking](https://github.com/carpedm20/awesome-hacking)
+-  [https://csea-iitb.github.io/IITBreachers-wiki/2020/08/01/Hacking-Sites.html](https://csea-iitb.github.io/IITBreachers-wiki/2020/08/01/Hacking-Sites.html)
