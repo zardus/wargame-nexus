@@ -169,9 +169,9 @@ I acquired the links here over a very long career.
 At some point, I started noting down resources that led me to these links.
 They are:
 
-- https://medium.com/@a.hilton83/learning-resources-a0a859bf9dbd
-- http://captf.com/practice-ctf/
-- http://www.wechall.net/sites.php
-- http://ctf.forgottensec.com/wiki/index.php?title=Main_Page
-- https://github.com/carpedm20/awesome-hacking
-- https://csea-iitb.github.io/IITBreachers-wiki/2020/08/01/Hacking-Sites.html
+- [https://medium.com/@a.hilton83/learning-resources-a0a859bf9dbd](https://medium.com/@a.hilton83/learning-resources-a0a859bf9dbd)
+- [http://captf.com/practice-ctf/](http://captf.com/practice-ctf/)
+- [http://www.wechall.net/sites.php](http://www.wechall.net/sites.php)
+- [http://ctf.forgottensec.com/wiki/index.php?title=Main_Page](http://ctf.forgottensec.com/wiki/index.php?title=Main_Page)
+- [https://github.com/carpedm20/awesome-hacking](https://github.com/carpedm20/awesome-hacking)
+- [https://csea-iitb.github.io/IITBreachers-wiki/2020/08/01/Hacking-Sites.html](https://csea-iitb.github.io/IITBreachers-wiki/2020/08/01/Hacking-Sites.html)
