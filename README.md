@@ -88,6 +88,7 @@ The chals below are listed with recommended ones first, then the rest in alphabe
 ### Binary Reversing
 
 - [ ] [reversing.kr](http://reversing.kr) <img src="https://img.shields.io/badge/recommended-yes-green.svg">
+- [ ] [challenges.re](https://challenges.re/) <img src="https://img.shields.io/badge/difficulty-beginner-green.svg">
 - [ ] [crackmes.one](https://crackmes.one/)
 - [ ] [crackmes.de (mirror)](http://crackmes.cf/) <img src="https://img.shields.io/badge/style-offline-lightgrey.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [ ] [IOLI64](https://github.com/BinaryResearch/IOLI64) <img src="https://img.shields.io/badge/style-offline-lightgrey.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
