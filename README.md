@@ -159,8 +159,8 @@ Developing some core CS skills can be useful for security as well!
 -  [WTHack](https://www.onlinectf.com/challenges/) <img src="https://img.shields.io/badge/status-dead-red.svg">
 -  [MMA CTF](https://ctf.mma.club.uec.ac.jp/) <img src="https://img.shields.io/badge/language-japanese-orange.svg"> <img src="https://img.shields.io/badge/status-dead-red.svg">
 -  [CodeEngn](http://ch.codeengn.com/) <img src="https://img.shields.io/badge/language-korean-orange.svg"> <img src="https://img.shields.io/badge/status-dead-red.svg">
-- [HackerGateway](https://www.hackergateway.com/) <img src="https://img.shields.io/badge/status-dead-red.svg">
-- [Mod-X](http://www.mod-x.co.uk/main.php) <img src="https://img.shields.io/badge/status-dead-red.svg">
+-  [HackerGateway](https://www.hackergateway.com/) <img src="https://img.shields.io/badge/status-dead-red.svg">
+-  [Mod-X](http://www.mod-x.co.uk/main.php) <img src="https://img.shields.io/badge/status-dead-red.svg">
 
 
 ## Credit
