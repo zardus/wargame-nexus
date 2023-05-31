@@ -34,21 +34,18 @@ The chals below are listed with recommended ones first, then the rest in alphabe
 - [W3Challs](https://w3challs.com/) <img src="https://img.shields.io/badge/recommended-yes-green.svg">
 - [WeChall](http://www.wechall.net/) <img src="https://img.shields.io/badge/recommended-yes-green.svg">
 - [archive.ooo](https://archive.ooo) <img src="https://img.shields.io/badge/recommended-yes-green.svg">
-- [CodeEngn](http://ch.codeengn.com/) <img src="https://img.shields.io/badge/language-korean-orange.svg">
 - [CTFLearn](https://ctflearn.com/)
 - [Defend the Web](https://defendtheweb.net/?hackthis)
 - [ExploitExercises Main Sequence](https://exploit.education/main-sequence/) <img src="https://img.shields.io/badge/style-offline-lightgrey.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [ExploitExercises Nebula](https://exploit.education/nebula/) <img src="https://img.shields.io/badge/difficulty-beginner-green.svg"> <img src="https://img.shields.io/badge/style-offline-lightgrey.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [Flagyard](https://flagyard.com/)
 - [hacker.org](http://www.hacker.org/)
-- [HackerGateway](https://www.hackergateway.com/)
 - [HackTheBox](https://www.hackthebox.com)
 - [HackThisSite](https://www.hackthissite.org/)
 - [HallsOfValhalla](https://halls-of-valhalla.org/beta/)
 - [HellBound Hackers](https://www.hellboundhackers.org/)
 - [Komodo CTF](http://ctf.komodosec.com/)
 - [Ma's Reversing](http://3564020356.org/) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
-- [Mod-X](http://www.mod-x.co.uk/main.php)
 - [NewbieContest](https://www.newbiecontest.org/)
 - [OverTheWire Semtex](http://overthewire.org/wargames/semtex/)
 - [0x539](https://0x0539.net/)
@@ -90,7 +87,7 @@ The chals below are listed with recommended ones first, then the rest in alphabe
 - [reversing.kr](http://reversing.kr) <img src="https://img.shields.io/badge/recommended-yes-green.svg">
 - [challenges.re](https://challenges.re/) <img src="https://img.shields.io/badge/difficulty-beginner-green.svg">
 - [crackmes.one](https://crackmes.one/)
-- [crackmes.de (mirror)](http://crackmes.cf/) <img src="https://img.shields.io/badge/style-offline-lightgrey.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
+- [crackmes.de (mirror)](https://crackmes.dreamhosters.com/) <img src="https://img.shields.io/badge/style-offline-lightgrey.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [IOLI64](https://github.com/BinaryResearch/IOLI64) <img src="https://img.shields.io/badge/style-offline-lightgrey.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 
 ### Prompt Injection
@@ -161,6 +158,9 @@ Developing some core CS skills can be useful for security as well!
 -  [The Enigma Group](https://www.enigmagroup.org/) <img src="https://img.shields.io/badge/status-dead-red.svg">
 -  [WTHack](https://www.onlinectf.com/challenges/) <img src="https://img.shields.io/badge/status-dead-red.svg">
 -  [MMA CTF](https://ctf.mma.club.uec.ac.jp/) <img src="https://img.shields.io/badge/language-japanese-orange.svg"> <img src="https://img.shields.io/badge/status-dead-red.svg">
+-  [CodeEngn](http://ch.codeengn.com/) <img src="https://img.shields.io/badge/language-korean-orange.svg"> <img src="https://img.shields.io/badge/status-dead-red.svg">
+- [HackerGateway](https://www.hackergateway.com/) <img src="https://img.shields.io/badge/status-dead-red.svg">
+- [Mod-X](http://www.mod-x.co.uk/main.php) <img src="https://img.shields.io/badge/status-dead-red.svg">
 
 
 ## Credit
