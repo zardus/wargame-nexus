@@ -28,6 +28,7 @@ The chals below are listed with recommended ones first, then the rest in alphabe
 
 ### General
 
+- [pwn.college](https://pwn.college) <img src="https://img.shields.io/badge/recommended-yes-green.svg"> <img src="https://img.shields.io/badge/difficulty-beginner-green.svg">
 - [PicoCTF](http://picoctf.com) <img src="https://img.shields.io/badge/recommended-yes-green.svg"> <img src="https://img.shields.io/badge/difficulty-beginner-green.svg">
 - [root-me](http://root-me.org) <img src="https://img.shields.io/badge/recommended-yes-green.svg">
 - [W3Challs](https://w3challs.com/) <img src="https://img.shields.io/badge/recommended-yes-green.svg">
@@ -80,7 +81,6 @@ The chals below are listed with recommended ones first, then the rest in alphabe
 - [OverTheWire Narnia](http://overthewire.org/wargames/narnia/) <img src="https://img.shields.io/badge/difficulty-beginner-green.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [OverTheWire Unomo](http://overthewire.org/wargames/utumno/) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [OverTheWire Vortex](http://overthewire.org/wargames/vortex/) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
-- [pwn.college](https://pwn.college) <img src="https://img.shields.io/badge/difficulty-beginner-green.svg">
 - [ROP.sh](https://github.com/xelenonz/game/) <img src="https://img.shields.io/badge/status-degraded-orange.svg"> <img src="https://img.shields.io/badge/style-offline-lightgrey.svg">
 - [ROP Emporium](https://ropemporium.com/)
 - [pwnable.xyz](https://pwnable.xyz/)
