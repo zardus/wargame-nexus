@@ -1,7 +1,7 @@
 # Welcome to the Wargame Nexus
 
-This is an organized, [PR-able](https://github.com/zardus/wargame-nexus) list of wargame sites.
-If you know of a (reasonable) wargame site not on this list (and there are definitely some), shoot me a PR.
+This is an organized, PR-able list of wargame sites.
+If you know of a (reasonable) wargame site not on this list (and there are definitely some), [shoot me a PR](https://github.com/zardus/wargame-nexus).
 If there is a wargame site that is on this list that should not be there (and there are definitely some), shoot me a PR.
 
 You can aggregate your score across many of these sites by registering on [WeChall](http://www.wechall.net).
