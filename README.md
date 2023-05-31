@@ -46,6 +46,7 @@ The chals below are listed with recommended ones first, then the rest in alphabe
 - [HellBound Hackers](https://www.hellboundhackers.org/)
 - [Komodo CTF](http://ctf.komodosec.com/)
 - [Ma's Reversing](http://3564020356.org/) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
+- [Net-Force](https://net-force.nl/)
 - [NewbieContest](https://www.newbiecontest.org/)
 - [OverTheWire Semtex](http://overthewire.org/wargames/semtex/)
 - [0x539](https://0x0539.net/)
@@ -154,7 +155,6 @@ Developing some core CS skills can be useful for security as well!
 -  [HackMe](https://hack.me/)
 -  [hax.tor](http://hax.tor.hu/welcome/) <img src="https://img.shields.io/badge/status-degraded-orange.svg">
 -  [IOarm](http://ioarm.netgarage.org/) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg"> <img src="https://img.shields.io/badge/status-dead-red.svg">
--  [Net-Force](https://net-force.nl/) <img src="https://img.shields.io/badge/status-dead-red.svg">
 -  [The Enigma Group](https://www.enigmagroup.org/) <img src="https://img.shields.io/badge/status-dead-red.svg">
 -  [WTHack](https://www.onlinectf.com/challenges/) <img src="https://img.shields.io/badge/status-dead-red.svg">
 -  [MMA CTF](https://ctf.mma.club.uec.ac.jp/) <img src="https://img.shields.io/badge/language-japanese-orange.svg"> <img src="https://img.shields.io/badge/status-dead-red.svg">
