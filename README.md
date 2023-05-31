@@ -112,6 +112,7 @@ The chals below are listed with recommended ones first, then the rest in alphabe
 - [ ] [HackerTest](https://www.hackertest.net/)
 - [ ] [OverTheWire Natas](http://overthewire.org/wargames/natas/) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [ ] [Stereotyped Challenges](https://chall.stypr.com)
+- [ ] [Wizer CTF](https://wizer-ctf.com/) <img src="https://img.shields.io/badge/difficulty-beginner-green.svg">
 - [ ] [XSS Game](https://www.xssgame.com/)
 - [ ] [XSS game area](https://xss-game.appspot.com/)
 - [ ] [XSS PwnFunction](https://xss.pwnfunction.com/)
