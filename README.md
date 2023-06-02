@@ -122,6 +122,9 @@ The chals below are listed with recommended ones first, then the rest in alphabe
 - [Crypto Hack](https://cryptohack.org/) <img src="https://img.shields.io/badge/recommended-yes-green.svg">
 - [Ethernaut (Solidity)](https://ethernaut.zeppelin.solutions/) <img src="https://img.shields.io/badge/difficulty-beginner-green.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 
+### Forensics
+
+- [Digital Forensics Lab](https://github.com/frankwxu/digital-forensics-lab) <img src="https://img.shields.io/badge/style-offline-lightgrey.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 
 ### Cloud
 
@@ -145,6 +148,9 @@ Developing some core CS skills can be useful for security as well!
 - [SadServers](https://sadservers.com/)
 
 ### Gone, but not forgotten
+
+These sites have gone offline (or taken their challenges offline).
+I track them here to periodically check for their return (which does happen sometimes!).
 
 -  [Backdoor](https://backdoor.sdslabs.co/challenges)
 -  [Bright Shadows](http://bright-shadows.net/) <img src="https://img.shields.io/badge/status-dead-red.svg">
