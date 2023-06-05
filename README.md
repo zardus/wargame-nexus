@@ -33,33 +33,33 @@ The chals below are listed with recommended ones first, then the rest in alphabe
 - [W3Challs](https://w3challs.com/) <img src="https://img.shields.io/badge/recommended-yes-green.svg">
 - [WeChall](http://www.wechall.net/) <img src="https://img.shields.io/badge/recommended-yes-green.svg">
 - [archive.ooo](https://archive.ooo) <img src="https://img.shields.io/badge/recommended-yes-green.svg">
+- [0x539](https://0x0539.net/)
 - [CTFLearn](https://ctflearn.com/)
+- [CpawCTF2](https://ctf2.cpaw.site/)
+- [CpawCTF](https://ctf.cpaw.site/) <img src="https://img.shields.io/badge/difficulty-beginner-green.svg"> <img src="https://img.shields.io/badge/language-japanese-orange.svg">
 - [Defend the Web](https://defendtheweb.net/?hackthis)
 - [ExploitExercises Main Sequence](https://exploit.education/main-sequence/) <img src="https://img.shields.io/badge/style-offline-lightgrey.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [ExploitExercises Nebula](https://exploit.education/nebula/) <img src="https://img.shields.io/badge/difficulty-beginner-green.svg"> <img src="https://img.shields.io/badge/style-offline-lightgrey.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [Flagyard](https://flagyard.com/)
-- [hacker.org](http://www.hacker.org/)
 - [HackTheBox](https://www.hackthebox.com)
 - [HackThisSite](https://www.hackthissite.org/)
 - [HallsOfValhalla](https://halls-of-valhalla.org/beta/)
 - [HellBound Hackers](https://www.hellboundhackers.org/)
 - [Komodo CTF](http://ctf.komodosec.com/)
+- [MAGURO β](https://score.maguro.run/)
+- [MNCTF](http://mnctf.info/) <img src="https://img.shields.io/badge/language-japanese-orange.svg">
 - [Ma's Reversing](http://3564020356.org/) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [Net-Force](https://net-force.nl/)
 - [NewbieContest](https://www.newbiecontest.org/)
 - [OverTheWire Semtex](http://overthewire.org/wargames/semtex/)
-- [0x539](https://0x0539.net/)
 - [RingZer0Team Online CTF](https://ringzer0team.com/home)
 - [SmashTheStack Logic](http://logic.smashthestack.org:88/) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [VulnHub](https://www.vulnhub.com/) <img src="https://img.shields.io/badge/style-offline-lightgrey.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
-- [ksnctf](http://ksnctf.sweetduet.info/)
-- [akictf](https://ctf.katsudon.org/) <img src="https://img.shields.io/badge/status-degraded-orange.svg"> <img src="https://img.shields.io/badge/style-offline-lightgrey.svg">
-- [MNCTF](http://mnctf.info/) <img src="https://img.shields.io/badge/language-japanese-orange.svg">
-- [柚子胡椒CTF](https://ctf.mzyy94.com/) <img src="https://img.shields.io/badge/language-japanese-orange.svg">
-- [CpawCTF](https://ctf.cpaw.site/) <img src="https://img.shields.io/badge/difficulty-beginner-green.svg"> <img src="https://img.shields.io/badge/language-japanese-orange.svg">
-- [CpawCTF2](https://ctf2.cpaw.site/)
 - [YEHD 2015 CTF](https://2015-yehd-ctf.meiji-ncc.tech/) <img src="https://img.shields.io/badge/language-japanese-orange.svg">
-- [MAGURO β](https://score.maguro.run/)
+- [akictf](https://ctf.katsudon.org/) <img src="https://img.shields.io/badge/status-degraded-orange.svg"> <img src="https://img.shields.io/badge/style-offline-lightgrey.svg">
+- [hacker.org](http://www.hacker.org/)
+- [ksnctf](http://ksnctf.sweetduet.info/)
+- [柚子胡椒CTF](https://ctf.mzyy94.com/) <img src="https://img.shields.io/badge/language-japanese-orange.svg">
 
 ### Binary Pwning
 
@@ -78,8 +78,8 @@ The chals below are listed with recommended ones first, then the rest in alphabe
 - [OverTheWire Narnia](http://overthewire.org/wargames/narnia/) <img src="https://img.shields.io/badge/difficulty-beginner-green.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [OverTheWire Unomo](http://overthewire.org/wargames/utumno/) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [OverTheWire Vortex](http://overthewire.org/wargames/vortex/) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
-- [ROP.sh](https://github.com/xelenonz/game/) <img src="https://img.shields.io/badge/status-degraded-orange.svg"> <img src="https://img.shields.io/badge/style-offline-lightgrey.svg">
 - [ROP Emporium](https://ropemporium.com/)
+- [ROP.sh](https://github.com/xelenonz/game/) <img src="https://img.shields.io/badge/status-degraded-orange.svg"> <img src="https://img.shields.io/badge/style-offline-lightgrey.svg">
 - [pwnable.xyz](https://pwnable.xyz/)
 
 ### Binary Reversing
@@ -111,8 +111,8 @@ The chals below are listed with recommended ones first, then the rest in alphabe
 - [Stereotyped Challenges](https://chall.stypr.com)
 - [Wizer CTF](https://wizer-ctf.com/) <img src="https://img.shields.io/badge/difficulty-beginner-green.svg">
 - [XSS Game](https://www.xssgame.com/)
-- [XSS game area](https://xss-game.appspot.com/)
 - [XSS PwnFunction](https://xss.pwnfunction.com/)
+- [XSS game area](https://xss-game.appspot.com/)
 
 ### Crypto
 
@@ -133,11 +133,11 @@ The chals below are listed with recommended ones first, then the rest in alphabe
 
 ### Unsorted
 
+- [CTF 101](https://ctf101.org/)
 - [IO07](http://io.netgarage.org:777/) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [SmashTheStack Amateria](http://amateria.smashthestack.org:89/) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [SmashTheStack Tux](http://tux.smashthestack.org:86/) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [Viblo](https://ctf.viblo.asia/landing)
-- [CTF 101](https://ctf101.org/)
 - [runZero Coin Challenge](https://info.runzero.com/challenge-coin)
 
 ### Not Security
