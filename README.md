@@ -159,7 +159,7 @@ I track them here to periodically check for their return (which does happen some
 -  [CHALLENGE LAND](http://challengeland.co/) <img src="https://img.shields.io/badge/status-dead-red.svg">
 -  [ctfs.me](http://ctfs.me/) <img src="https://img.shields.io/badge/status-dead-red.svg">
 -  [HackBurger](https://hackburger.ee/) <img src="https://img.shields.io/badge/status-dead-red.svg">
--  [HackMe](https://hack.me/)
+-  [HackMe](https://hack.me/) <img src="https://img.shields.io/badge/status-dead-red.svg">
 -  [hax.tor](http://hax.tor.hu/welcome/) <img src="https://img.shields.io/badge/status-degraded-orange.svg">
 -  [IOarm](http://ioarm.netgarage.org/) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg"> <img src="https://img.shields.io/badge/status-dead-red.svg">
 -  [The Enigma Group](https://www.enigmagroup.org/) <img src="https://img.shields.io/badge/status-dead-red.svg">
