@@ -28,6 +28,7 @@ The chals below are listed with recommended ones first, then the rest in alphabe
 ### General
 
 - [pwn.college](https://pwn.college) <img src="https://img.shields.io/badge/recommended-yes-green.svg"> <img src="https://img.shields.io/badge/difficulty-beginner-green.svg">
+- [TryHackMe](http://tryhackme.com) <img src="https://img.shields.io/badge/recommended-yes-green.svg"> <img src="https://img.shields.io/badge/difficulty-beginner-green.svg">
 - [PicoCTF](http://picoctf.com) <img src="https://img.shields.io/badge/recommended-yes-green.svg"> <img src="https://img.shields.io/badge/difficulty-beginner-green.svg">
 - [root-me](http://root-me.org) <img src="https://img.shields.io/badge/recommended-yes-green.svg">
 - [W3Challs](https://w3challs.com/) <img src="https://img.shields.io/badge/recommended-yes-green.svg">
