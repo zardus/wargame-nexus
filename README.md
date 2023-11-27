@@ -111,12 +111,12 @@ The chals below are listed with recommended ones first, then the rest in alphabe
 - [Google Gruyere](http://google-gruyere.appspot.com/) <img src="https://img.shields.io/badge/difficulty-beginner-green.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [HackerTest](https://www.hackertest.net/)
 - [OverTheWire Natas](http://overthewire.org/wargames/natas/) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
+- [PortSwigger Web Security Academy](https://portswigger.net/web-security)
 - [Stereotyped Challenges](https://chall.stypr.com)
 - [Wizer CTF](https://wizer-ctf.com/) <img src="https://img.shields.io/badge/difficulty-beginner-green.svg">
 - [XSS Game](https://www.xssgame.com/)
 - [XSS PwnFunction](https://xss.pwnfunction.com/)
 - [XSS game area](https://xss-game.appspot.com/)
-- [PortSwigger Web Security Academy](https://portswigger.net/web-security)
 
 ### Crypto
 
