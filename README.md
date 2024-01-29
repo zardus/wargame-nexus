@@ -45,7 +45,6 @@ The chals below are listed with recommended ones first, then the rest in alphabe
 - [Flagyard](https://flagyard.com/)
 - [HackTheBox](https://www.hackthebox.com)
 - [HackThisSite](https://www.hackthissite.org/)
-- [HallsOfValhalla](https://halls-of-valhalla.org/beta/)
 - [HellBound Hackers](https://www.hellboundhackers.org/)
 - [Komodo CTF](http://ctf.komodosec.com/)
 - [MAGURO β](https://score.maguro.run/)
@@ -165,6 +164,7 @@ I track them here to periodically check for their return (which does happen some
 -  [ctfs.me](http://ctfs.me/) <img src="https://img.shields.io/badge/status-dead-red.svg">
 -  [HackBurger](https://hackburger.ee/) <img src="https://img.shields.io/badge/status-dead-red.svg">
 -  [HackMe](https://hack.me/) <img src="https://img.shields.io/badge/status-dead-red.svg">
+-  [HallsOfValhalla](https://halls-of-valhalla.org/beta/) <img src="https://img.shields.io/badge/status-dead-red.svg">
 -  [hax.tor](http://hax.tor.hu/welcome/) <img src="https://img.shields.io/badge/status-degraded-orange.svg">
 -  [IOarm](http://ioarm.netgarage.org/) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg"> <img src="https://img.shields.io/badge/status-dead-red.svg">
 -  [The Enigma Group](https://www.enigmagroup.org/) <img src="https://img.shields.io/badge/status-dead-red.svg">
