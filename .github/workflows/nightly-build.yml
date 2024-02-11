@@ -14,4 +14,4 @@ jobs:
     - uses: docker/setup-buildx-action@master
     - name: check sites that should be live
       run: |
-        ./check.py
+        ./check.py || ./check.py || ./check.py || ./check.py
