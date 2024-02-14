@@ -139,6 +139,7 @@ The chals below are listed with recommended ones first, then the rest in alphabe
 ### Unsorted
 
 - [CTF 101](https://ctf101.org/)
+- [InterruptLabs Challenges](https://www.interruptlabs.co.uk/challenges)
 - [IO07](http://io.netgarage.org:777/) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [SANS Holiday Hack Challenge 2023](https://2023.holidayhackchallenge.com/invite)
 - [SmashTheStack Amateria](http://amateria.smashthestack.org:89/) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
