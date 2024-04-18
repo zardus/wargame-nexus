@@ -111,6 +111,7 @@ The chals below are listed with recommended ones first, then the rest in alphabe
 - [0xf.at](https://0xf.at/)
 - [Google Gruyere](http://google-gruyere.appspot.com/) <img src="https://img.shields.io/badge/difficulty-beginner-green.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [HackerTest](https://www.hackertest.net/)
+- [HackingHub](https://app.hackinghub.io/)
 - [OverTheWire Natas](http://overthewire.org/wargames/natas/) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [PortSwigger Web Security Academy](https://portswigger.net/web-security)
 - [Stereotyped Challenges](https://chall.stypr.com)
