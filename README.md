@@ -40,6 +40,7 @@ The chals below are listed with recommended ones first, then the rest in alphabe
 - [CpawCTF2](https://ctf2.cpaw.site/)
 - [CpawCTF](https://ctf.cpaw.site/) <img src="https://img.shields.io/badge/difficulty-beginner-green.svg"> <img src="https://img.shields.io/badge/language-japanese-orange.svg">
 - [Defend the Web](https://defendtheweb.net/?hackthis)
+- [Dreamhack](https://dreamhack.io/wargame) <img src="https://img.shields.io/badge/heartbeat-failed-red.svg">
 - [ExploitExercises Main Sequence](https://exploit.education/main-sequence/) <img src="https://img.shields.io/badge/style-offline-lightgrey.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [ExploitExercises Nebula](https://exploit.education/nebula/) <img src="https://img.shields.io/badge/difficulty-beginner-green.svg"> <img src="https://img.shields.io/badge/style-offline-lightgrey.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [Flagyard](https://flagyard.com/)
@@ -112,7 +113,7 @@ The chals below are listed with recommended ones first, then the rest in alphabe
 - [0xf.at](https://0xf.at/)
 - [Google Gruyere](http://google-gruyere.appspot.com/) <img src="https://img.shields.io/badge/difficulty-beginner-green.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [HackerTest](https://www.hackertest.net/)
-- [HackingHub](https://app.hackinghub.io/)
+- [HackingHub](https://app.hackinghub.io/) <img src="https://img.shields.io/badge/heartbeat-failed-red.svg">
 - [OverTheWire Natas](http://overthewire.org/wargames/natas/) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [PortSwigger Web Security Academy](https://portswigger.net/web-security)
 - [Stereotyped Challenges](https://chall.stypr.com)
@@ -165,7 +166,6 @@ I track them here to periodically check for their return (which does happen some
 -  [Bright Shadows](http://bright-shadows.net/) <img src="https://img.shields.io/badge/status-dead-red.svg">
 -  [CHALLENGE LAND](http://challengeland.co/) <img src="https://img.shields.io/badge/status-dead-red.svg">
 -  [ctfs.me](http://ctfs.me/) <img src="https://img.shields.io/badge/status-dead-red.svg">
--  [Dreamhack](https://dreamhack.io/wargame) - <span style="color: rgba(0, 0, 0, 0.2);">probably up, but not functional in my CI</span>
 -  [HackBurger](https://hackburger.ee/) <img src="https://img.shields.io/badge/status-dead-red.svg">
 -  [HackMe](https://hack.me/) <img src="https://img.shields.io/badge/status-dead-red.svg">
 -  [HallsOfValhalla](https://halls-of-valhalla.org/beta/) <img src="https://img.shields.io/badge/status-dead-red.svg">
