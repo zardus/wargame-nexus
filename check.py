@@ -13,6 +13,8 @@ for line in open("README.md"):
         break
     if not line.startswith("- [") or "http" not in line:
         continue
+    if "heartbeat-failed" in line:
+        continue
         
     name = line.strip("- [").split("]")[0]
     url = line.split("]")[1][1:].split(")")[0]

@@ -16,6 +16,7 @@ You can aggregate your score across many of these sites by registering on [WeCha
 - <img src="https://img.shields.io/badge/status-degraded-orange.svg"> bitrotted
 - <img src="https://img.shields.io/badge/status-dead-red.svg"> dead
 - <img src="https://img.shields.io/badge/language-X-orange.svg"> only playable in language X
+- <img src="https://img.shields.io/badge/heartbeat-failed-red.svg"> fails to work with the daily heartbeat check, so no promises about being up (but was up last time I checked)
 
 The chals below are listed with recommended ones first, then the rest in alphabetical order.
 
