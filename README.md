@@ -93,7 +93,6 @@ The chals below are listed with recommended ones first, then the rest in alphabe
 - [reversing.kr](http://reversing.kr) <img src="https://img.shields.io/badge/recommended-yes-green.svg">
 - [challenges.re](https://challenges.re/) <img src="https://img.shields.io/badge/difficulty-beginner-green.svg">
 - [crackmes.one](https://crackmes.one/)
-- [crackmes.de (mirror)](https://crackmes.dreamhosters.com/) <img src="https://img.shields.io/badge/style-offline-lightgrey.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [IOLI64](https://github.com/BinaryResearch/IOLI64) <img src="https://img.shields.io/badge/style-offline-lightgrey.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 
 ### Prompt Injection
@@ -165,6 +164,7 @@ I track them here to periodically check for their return (which does happen some
 -  [Backdoor](https://backdoor.sdslabs.co/challenges)
 -  [Bright Shadows](http://bright-shadows.net/) <img src="https://img.shields.io/badge/status-dead-red.svg">
 -  [CHALLENGE LAND](http://challengeland.co/) <img src="https://img.shields.io/badge/status-dead-red.svg">
+-  [crackmes.de (mirror)](https://crackmes.dreamhosters.com/) <img src="https://img.shields.io/badge/status-dead-red.svg"> <img src="https://img.shields.io/badge/style-offline-lightgrey.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 -  [ctfs.me](http://ctfs.me/) <img src="https://img.shields.io/badge/status-dead-red.svg">
 -  [HackBurger](https://hackburger.ee/) <img src="https://img.shields.io/badge/status-dead-red.svg">
 -  [HackMe](https://hack.me/) <img src="https://img.shields.io/badge/status-dead-red.svg">
