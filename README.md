@@ -169,7 +169,7 @@ The chals below are listed with recommended ones first, then the rest in alphabe
 - [runZero Coin Challenge](https://info.runzero.com/challenge-coin)
 
 ### Recon
-- [ae27ff](https://ae27ff.com/about.php)
+- [ae27ff](https://ae27ff.com/about.php) <img src="https://img.shields.io/badge/heartbeat-failed-red.svg">
 
 ### Not Security
 
