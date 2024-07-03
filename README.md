@@ -134,6 +134,7 @@ The chals below are listed with recommended ones first, then the rest in alphabe
 - [XSS Game](https://www.xssgame.com/)
 - [XSS PwnFunction](https://xss.pwnfunction.com/)
 - [XSS game area](https://xss-game.appspot.com/)
+- [YesWeHack DOJO](https://dojo-yeswehack.com/)
 
 ### Crypto
 
