@@ -37,6 +37,7 @@ The chals below are listed with recommended ones first, then the rest in alphabe
 - [archive.ooo](https://archive.ooo) <img src="https://img.shields.io/badge/recommended-yes-green.svg">
 - [247CTF](https://247ctf.com)
 - [0x539](https://0x0539.net/)
+- [Block Harbor Automotive Cybersecurity](https://ctf.blockharbor.io/)
 - [CTFLearn](https://ctflearn.com/)
 - [CpawCTF2](https://ctf2.cpaw.site/)
 - [CpawCTF](https://ctf.cpaw.site/) <img src="https://img.shields.io/badge/difficulty-beginner-green.svg"> <img src="https://img.shields.io/badge/language-japanese-orange.svg">
