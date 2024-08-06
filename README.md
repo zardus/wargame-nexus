@@ -110,6 +110,7 @@ The chals below are listed with recommended ones first, then the rest in alphabe
 
 ### Prompt Injection
 
+- [Invariant Labs Summer '24 CTF Challenge](https://invariantlabs.ai/ctf-challenge-24)
 - [Gandalf](https://gandalf.lakera.ai/)
 - [GPT Prompt Attack](https://gpa.43z.one)
 
@@ -170,8 +171,10 @@ The chals below are listed with recommended ones first, then the rest in alphabe
 - [Viblo](https://ctf.viblo.asia/landing)
 - [runZero Coin Challenge](https://info.runzero.com/challenge-coin)
 
-### Recon
+### Recon / OSINT
+
 - [ae27ff](https://ae27ff.com/about.php) <img src="https://img.shields.io/badge/heartbeat-failed-red.svg">
+- [The OSINT Lab](https://theosintlab.com)
 
 ### Not Security
 
