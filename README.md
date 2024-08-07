@@ -107,6 +107,7 @@ The chals below are listed with recommended ones first, then the rest in alphabe
 - [challenges.re](https://challenges.re/) <img src="https://img.shields.io/badge/difficulty-beginner-green.svg">
 - [crackmes.one](https://crackmes.one/)
 - [IOLI64](https://github.com/BinaryResearch/IOLI64) <img src="https://img.shields.io/badge/style-offline-lightgrey.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
+- [LigerLabs](https://ligerlabs.org/) <img src="https://img.shields.io/badge/style-offline-lightgrey.svg">
 
 ### Prompt Injection
 
