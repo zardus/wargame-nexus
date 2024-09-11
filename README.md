@@ -130,6 +130,7 @@ The chals below are listed with recommended ones first, then the rest in alphabe
 - [HackingHub](https://app.hackinghub.io/) <img src="https://img.shields.io/badge/heartbeat-failed-red.svg">
 - [Lords of SQLInjection](https://los.rubiya.kr/)
 - [OverTheWire Natas](http://overthewire.org/wargames/natas/) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
+- [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/) <img src="https://img.shields.io/badge/difficulty-beginner-green.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [PortSwigger Web Security Academy](https://portswigger.net/web-security)
 - [RedTiger's Hackit](https://redtiger.labs.overthewire.org/)
 - [Stereotyped Challenges](https://chall.stypr.com) <img src="https://img.shields.io/badge/status-degraded-orange.svg"> <img src="https://img.shields.io/badge/style-offline-lightgrey.svg">
