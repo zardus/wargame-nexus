@@ -209,6 +209,13 @@ I track them here to periodically check for their return (which does happen some
 -  [HackerGateway](https://www.hackergateway.com/) <img src="https://img.shields.io/badge/status-dead-red.svg">
 -  [Mod-X](http://www.mod-x.co.uk/main.php) <img src="https://img.shields.io/badge/status-dead-red.svg">
 
+## Other Indexes
+
+This isn't the only wargame index out there!
+Others are:
+
+- [CAE Cyber Competitions Atlas](https://cyber-atlas.caecommunity.org/)
+- [WeChall](http://www.wechall.net/sites.php)
 
 ## Credit
 
