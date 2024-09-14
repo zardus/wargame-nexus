@@ -38,6 +38,7 @@ The chals below are listed with recommended ones first, then the rest in alphabe
 - [247CTF](https://247ctf.com)
 - [0x539](https://0x0539.net/)
 - [Block Harbor Automotive Cybersecurity](https://ctf.blockharbor.io/)
+- [CodeEngn](http://ch.codeengn.com/) <img src="https://img.shields.io/badge/language-korean-orange.svg"> <img src="https://img.shields.io/badge/status-dead-red.svg">
 - [CTFLearn](https://ctflearn.com/)
 - [CpawCTF2](https://ctf2.cpaw.site/)
 - [CpawCTF](https://ctf.cpaw.site/) <img src="https://img.shields.io/badge/difficulty-beginner-green.svg"> <img src="https://img.shields.io/badge/language-japanese-orange.svg">
@@ -58,6 +59,7 @@ The chals below are listed with recommended ones first, then the rest in alphabe
 - [MAGURO β](https://score.maguro.run/)
 - [MNCTF](http://mnctf.info/) <img src="https://img.shields.io/badge/language-japanese-orange.svg">
 - [Ma's Reversing](http://3564020356.org/) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
+- [Mod-X](http://www.mod-x.co.uk/main.php) <img src="https://img.shields.io/badge/status-dead-red.svg">
 - [Net-Force](https://net-force.nl/)
 - [NewbieContest](https://www.newbiecontest.org/) <img src="https://img.shields.io/badge/language-french-orange.svg">
 - [Open Security Training](https://opensecuritytraining.info/Welcome.html) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg"> <img src="https://img.shields.io/badge/style-offline-lightgrey.svg">
@@ -105,6 +107,7 @@ The chals below are listed with recommended ones first, then the rest in alphabe
 
 - [reversing.kr](http://reversing.kr) <img src="https://img.shields.io/badge/recommended-yes-green.svg">
 - [challenges.re](https://challenges.re/) <img src="https://img.shields.io/badge/difficulty-beginner-green.svg">
+- [crackmes.de (mirror)](https://crackmes.dreamhosters.com/) <img src="https://img.shields.io/badge/style-offline-lightgrey.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [crackmes.one](https://crackmes.one/)
 - [IOLI64](https://github.com/BinaryResearch/IOLI64) <img src="https://img.shields.io/badge/style-offline-lightgrey.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [LigerLabs](https://ligerlabs.org/) <img src="https://img.shields.io/badge/style-offline-lightgrey.svg">
@@ -194,7 +197,6 @@ I track them here to periodically check for their return (which does happen some
 -  [Backdoor](https://backdoor.sdslabs.co/challenges)
 -  [Bright Shadows](http://bright-shadows.net/) <img src="https://img.shields.io/badge/status-dead-red.svg">
 -  [CHALLENGE LAND](http://challengeland.co/) <img src="https://img.shields.io/badge/status-dead-red.svg">
--  [crackmes.de (mirror)](https://crackmes.dreamhosters.com/) <img src="https://img.shields.io/badge/status-dead-red.svg"> <img src="https://img.shields.io/badge/style-offline-lightgrey.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 -  [ctfs.me](http://ctfs.me/) <img src="https://img.shields.io/badge/status-dead-red.svg">
 -  [HackBurger](https://hackburger.ee/) <img src="https://img.shields.io/badge/status-dead-red.svg">
 -  [HackMe](https://hack.me/) <img src="https://img.shields.io/badge/status-dead-red.svg">
@@ -204,9 +206,7 @@ I track them here to periodically check for their return (which does happen some
 -  [The Enigma Group](https://www.enigmagroup.org/) <img src="https://img.shields.io/badge/status-dead-red.svg">
 -  [WTHack](https://www.onlinectf.com/challenges/) <img src="https://img.shields.io/badge/status-dead-red.svg">
 -  [MMA CTF](https://ctf.mma.club.uec.ac.jp/) <img src="https://img.shields.io/badge/language-japanese-orange.svg"> <img src="https://img.shields.io/badge/status-dead-red.svg">
--  [CodeEngn](http://ch.codeengn.com/) <img src="https://img.shields.io/badge/language-korean-orange.svg"> <img src="https://img.shields.io/badge/status-dead-red.svg">
 -  [HackerGateway](https://www.hackergateway.com/) <img src="https://img.shields.io/badge/status-dead-red.svg">
--  [Mod-X](http://www.mod-x.co.uk/main.php) <img src="https://img.shields.io/badge/status-dead-red.svg">
 -  [The OSINT Lab](https://theosintlab.com)
 
 ## Other Indexes
