@@ -176,7 +176,6 @@ The chals below are listed with recommended ones first, then the rest in alphabe
 ### Recon / OSINT
 
 - [ae27ff](https://ae27ff.com/about.php) <img src="https://img.shields.io/badge/heartbeat-failed-red.svg">
-- [The OSINT Lab](https://theosintlab.com)
 
 ### Not Security
 
@@ -208,6 +207,7 @@ I track them here to periodically check for their return (which does happen some
 -  [CodeEngn](http://ch.codeengn.com/) <img src="https://img.shields.io/badge/language-korean-orange.svg"> <img src="https://img.shields.io/badge/status-dead-red.svg">
 -  [HackerGateway](https://www.hackergateway.com/) <img src="https://img.shields.io/badge/status-dead-red.svg">
 -  [Mod-X](http://www.mod-x.co.uk/main.php) <img src="https://img.shields.io/badge/status-dead-red.svg">
+-  [The OSINT Lab](https://theosintlab.com)
 
 ## Other Indexes
 
