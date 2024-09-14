@@ -148,7 +148,7 @@ The chals below are listed with recommended ones first, then the rest in alphabe
 - [OverTheWire Krypton](http://overthewire.org/wargames/krypton/) <img src="https://img.shields.io/badge/difficulty-beginner-green.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [Brain Quest](https://www.bqbi.net/)
 - [Énigmes À Thématiques](https://enigmes-a-thematiques.fr/front/) <img src="https://img.shields.io/badge/language-french-orange.svg">
-- [Ethernaut (Solidity)](https://ethernaut.zeppelin.solutions/) <img src="https://img.shields.io/badge/difficulty-beginner-green.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
+- [Ethernaut (Solidity)](https://ethernaut.openzeppelin.com/) <img src="https://img.shields.io/badge/difficulty-beginner-green.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [Gekkó](https://gekko.csokavar.hu/login)
 - [MysteryTwister](https://mysterytwister.org/)
 - [try to decrypt](https://www.trytodecrypt.com/)
