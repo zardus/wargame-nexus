@@ -14,4 +14,5 @@ jobs:
     - uses: docker/setup-buildx-action@master
     - name: check sites that should be live
       run: |
+        pip install curl_cffi
         ./check.py || ./check.py || ./check.py || ./check.py
