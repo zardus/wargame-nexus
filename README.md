@@ -2,6 +2,7 @@
 
 This is an organized, PR-able list of wargame sites.
 If you know of a (reasonable) wargame site not on this list (and there are definitely some), [shoot me a PR](https://github.com/zardus/wargame-nexus).
+I have nightly tests to detect sites that have gone down, but if you notice something I missed, [open an issue](https://github.com/zardus/wargame-nexus/issues)!
 
 You can aggregate your score across many of these sites by registering on [WeChall](http://www.wechall.net).
 
