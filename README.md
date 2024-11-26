@@ -84,7 +84,7 @@ The chals below are listed with recommended ones first, then the rest in alphabe
 
 - [HackMyVM](https://hackmyvm.eu)
 - [HackTheBox](https://www.hackthebox.com)
-- [TryHackMe](http://tryhackme.com) <img src="https://img.shields.io/badge/recommended-yes-green.svg"> <img src="https://img.shields.io/badge/difficulty-beginner-green.svg">
+- [TryHackMe](http://tryhackme.com)
 
 ### Binary Pwning
 
