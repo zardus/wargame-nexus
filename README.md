@@ -30,7 +30,6 @@ The chals below are listed with recommended ones first, then the rest in alphabe
 ### General
 
 - [pwn.college](https://pwn.college) <img src="https://img.shields.io/badge/recommended-yes-green.svg"> <img src="https://img.shields.io/badge/difficulty-beginner-green.svg">
-- [TryHackMe](http://tryhackme.com) <img src="https://img.shields.io/badge/recommended-yes-green.svg"> <img src="https://img.shields.io/badge/difficulty-beginner-green.svg">
 - [PicoCTF](http://picoctf.com) <img src="https://img.shields.io/badge/recommended-yes-green.svg"> <img src="https://img.shields.io/badge/difficulty-beginner-green.svg">
 - [root-me](http://root-me.org) <img src="https://img.shields.io/badge/recommended-yes-green.svg">
 - [W3Challs](https://w3challs.com/) <img src="https://img.shields.io/badge/recommended-yes-green.svg">
@@ -53,7 +52,6 @@ The chals below are listed with recommended ones first, then the rest in alphabe
 - [HackBBS](https://hackbbs.org/index.php)
 - [Hacking-Challenges](http://www.hacking-challenges.de/) <img src="https://img.shields.io/badge/language-german-orange.svg">
 - [Hackropole](https://hackropole.fr/en/) <img src="https://img.shields.io/badge/style-offline-lightgrey.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
-- [HackTheBox](https://www.hackthebox.com)
 - [HackThisSite](https://www.hackthissite.org/)
 - [HellBound Hackers](https://www.hellboundhackers.org/)
 - [Komodo CTF](http://ctf.komodosec.com/)
@@ -81,6 +79,12 @@ The chals below are listed with recommended ones first, then the rest in alphabe
 - [ksnctf](http://ksnctf.sweetduet.info/)
 - [World of Wargame](https://wow.sinfocol.org/) <img src="https://img.shields.io/badge/language-spanish-orange.svg">
 - [柚子胡椒CTF](https://ctf.mzyy94.com/) <img src="https://img.shields.io/badge/language-japanese-orange.svg">
+
+### "Box"-style Wargames
+
+- [HackMyVM](https://hackmyvm.eu)
+- [HackTheBox](https://www.hackthebox.com)
+- [TryHackMe](http://tryhackme.com) <img src="https://img.shields.io/badge/recommended-yes-green.svg"> <img src="https://img.shields.io/badge/difficulty-beginner-green.svg">
 
 ### Binary Pwning
 
