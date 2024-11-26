@@ -122,7 +122,7 @@ The chals below are listed with recommended ones first, then the rest in alphabe
 - [Invariant Labs Summer '24 CTF Challenge](https://invariantlabs.ai/ctf-challenge-24)
 - [Gandalf](https://gandalf.lakera.ai/)
 - [GPT Prompt Attack](https://gpa.43z.one)
-- [RedTeam Arena](https://redarena.ai/)
+- [RedTeam Arena](https://redarena.ai/) <img src="https://img.shields.io/badge/heartbeat-failed-red.svg">
 
 ### Mobile
 
@@ -142,7 +142,6 @@ The chals below are listed with recommended ones first, then the rest in alphabe
 - [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/) <img src="https://img.shields.io/badge/difficulty-beginner-green.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [PortSwigger Web Security Academy](https://portswigger.net/web-security)
 - [RedTiger's Hackit](https://redtiger.labs.overthewire.org/)
-- [Stereotyped Challenges](https://chall.stypr.com) <img src="https://img.shields.io/badge/status-degraded-orange.svg"> <img src="https://img.shields.io/badge/style-offline-lightgrey.svg">
 - [Wizer CTF](https://wizer-ctf.com/) <img src="https://img.shields.io/badge/difficulty-beginner-green.svg">
 - [XSS Game](https://www.xssgame.com/)
 - [XSS PwnFunction](https://xss.pwnfunction.com/)
@@ -193,7 +192,6 @@ Developing some core CS skills can be useful for security as well!
 - [Tensor Puzzles](https://github.com/srush/Tensor-Puzzles)
 - [SadServers](https://sadservers.com/)
 - [PyDéfis](https://pydefis.callicode.fr/) <img src="https://img.shields.io/badge/language-french-orange.svg">
-- [Prompt Riddle](https://promptriddle.com/)
 
 ### Gone, but not forgotten
 
@@ -209,6 +207,8 @@ I track them here to periodically check for their return (which does happen some
 -  [HallsOfValhalla](https://halls-of-valhalla.org/beta/) <img src="https://img.shields.io/badge/status-dead-red.svg">
 -  [hax.tor](http://hax.tor.hu/welcome/) <img src="https://img.shields.io/badge/status-degraded-orange.svg">
 -  [IOarm](http://ioarm.netgarage.org/) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg"> <img src="https://img.shields.io/badge/status-dead-red.svg">
+-  [Prompt Riddle](https://promptriddle.com/)
+-  [Stereotyped Challenges](https://chall.stypr.com) <img src="https://img.shields.io/badge/status-degraded-orange.svg"> <img src="https://img.shields.io/badge/style-offline-lightgrey.svg">
 -  [The Enigma Group](https://www.enigmagroup.org/) <img src="https://img.shields.io/badge/status-dead-red.svg">
 -  [WTHack](https://www.onlinectf.com/challenges/) <img src="https://img.shields.io/badge/status-dead-red.svg">
 -  [MMA CTF](https://ctf.mma.club.uec.ac.jp/) <img src="https://img.shields.io/badge/language-japanese-orange.svg"> <img src="https://img.shields.io/badge/status-dead-red.svg">
