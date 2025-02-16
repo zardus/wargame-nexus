@@ -185,7 +185,7 @@ The chals below are listed with recommended ones first, then the rest in alphabe
 ### Recon / OSINT
 
 - [ae27ff](https://ae27ff.com/about.php) <img src="https://img.shields.io/badge/heartbeat-failed-red.svg">
-- [Sofia Santos | OSINT Analysis & Exercises](https://gralhix.com/list-of-osint-exercises/)
+- [Sofia Santos OSINT Analysis & Exercises](https://gralhix.com/list-of-osint-exercises/)
 
 ### Not Security
 
