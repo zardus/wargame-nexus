@@ -185,14 +185,16 @@ The chals below are listed with recommended ones first, then the rest in alphabe
 ### Recon / OSINT
 
 - [ae27ff](https://ae27ff.com/about.php) <img src="https://img.shields.io/badge/heartbeat-failed-red.svg">
+- [Sofia Santos | OSINT Analysis & Exercises](https://gralhix.com/list-of-osint-exercises/)
 
 ### Not Security
 
 Developing some core CS skills can be useful for security as well!
 
-- [Tensor Puzzles](https://github.com/srush/Tensor-Puzzles)
-- [SadServers](https://sadservers.com/)
+- [Protohackers](https://protohackers.com/)
 - [PyDéfis](https://pydefis.callicode.fr/) <img src="https://img.shields.io/badge/language-french-orange.svg">
+- [SadServers](https://sadservers.com/)
+- [Tensor Puzzles](https://github.com/srush/Tensor-Puzzles)
 
 ### Gone, but not forgotten
 
