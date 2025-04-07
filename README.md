@@ -121,6 +121,7 @@ The chals below are listed with recommended ones first, then the rest in alphabe
 
 ### Prompt Injection
 
+- [Dreadnode Crucible](https://platform.dreadnode.io/)
 - [Gandalf](https://gandalf.lakera.ai/)
 - [GPT Prompt Attack](https://gpa.43z.one)
 - [RedTeam Arena](https://redarena.ai/) <img src="https://img.shields.io/badge/heartbeat-failed-red.svg">
