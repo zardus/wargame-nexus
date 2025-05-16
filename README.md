@@ -39,6 +39,7 @@ The chals below are listed with recommended ones first, then the rest in alphabe
 - [0x539](https://0x0539.net/)
 - [Block Harbor Automotive Cybersecurity](https://ctf.blockharbor.io/)
 - [BUUCTF](https://buuoj.cn/challenges)
+- [Code Auditor CTF](https://auditor.codes/)
 - [CodeEngn](http://ch.codeengn.com/) <img src="https://img.shields.io/badge/language-korean-orange.svg"> <img src="https://img.shields.io/badge/status-dead-red.svg">
 - [CTFLearn](https://ctflearn.com/)
 - [CpawCTF2](https://ctf2.cpaw.site/)
