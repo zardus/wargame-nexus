@@ -51,6 +51,7 @@ The chals below are listed with recommended ones first, then the rest in alphabe
 - [ExploitExercises Main Sequence](https://exploit.education/main-sequence/) <img src="https://img.shields.io/badge/style-offline-lightgrey.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [ExploitExercises Nebula](https://exploit.education/nebula/) <img src="https://img.shields.io/badge/difficulty-beginner-green.svg"> <img src="https://img.shields.io/badge/style-offline-lightgrey.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [Flagyard](https://flagyard.com/)
+- [hackArcana](https://hackarcana.com/exercises)
 - [HackBBS](https://hackbbs.org/index.php)
 - [Hacking-Challenges](http://www.hacking-challenges.de/) <img src="https://img.shields.io/badge/language-german-orange.svg">
 - [Hackropole](https://hackropole.fr/en/) <img src="https://img.shields.io/badge/style-offline-lightgrey.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
@@ -81,7 +82,6 @@ The chals below are listed with recommended ones first, then the rest in alphabe
 - [ksnctf](http://ksnctf.sweetduet.info/)
 - [World of Wargame](https://wow.sinfocol.org/) <img src="https://img.shields.io/badge/language-spanish-orange.svg">
 - [柚子胡椒CTF](https://ctf.mzyy94.com/) <img src="https://img.shields.io/badge/language-japanese-orange.svg">
-- [hackArcana](https://hackarcana.com/exercises)
 
 ### "Box"-style Wargames
 
