@@ -81,6 +81,7 @@ The chals below are listed with recommended ones first, then the rest in alphabe
 - [ksnctf](http://ksnctf.sweetduet.info/)
 - [World of Wargame](https://wow.sinfocol.org/) <img src="https://img.shields.io/badge/language-spanish-orange.svg">
 - [柚子胡椒CTF](https://ctf.mzyy94.com/) <img src="https://img.shields.io/badge/language-japanese-orange.svg">
+- [hackArcana](https://hackarcana.com/exercises)
 
 ### "Box"-style Wargames
 
