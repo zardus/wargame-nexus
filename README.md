@@ -89,6 +89,14 @@ The chals below are listed with recommended ones first, then the rest in alphabe
 - [HackTheBox](https://www.hackthebox.com)
 - [TryHackMe](http://tryhackme.com)
 
+
+### CTF Archives
+- [Sajjadium's GitHub Repository](https://github.com/sajjadium/ctf-archives) <img src="https://img.shields.io/badge/style-offline-lightgrey.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
+- [r3kapig's Notion](https://r3kapig-not1on.notion.site/Index-docs-format-09007cb92ef649838d8057a64f0d99dc) <img src="https://img.shields.io/badge/style-offline-lightgrey.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
+- [ShellStorm](https://shell-storm.org/repo/CTF/) <img src="https://img.shields.io/badge/style-offline-lightgrey.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
+- [ImaginaryCTF](https://imaginaryctf.org3245/ArchivedChallenges) <img src="https://img.shields.io/badge/style-offline-lightgrey.svg">
+- [ångstromCTF](https://angstromctf.com/) <img src="https://img.shields.io/badge/style-offline-lightgrey.svg">
+
 ### Binary Pwning
 
 - [pwnable.kr](http://pwnable.kr) <img src="https://img.shields.io/badge/recommended-yes-green.svg">
