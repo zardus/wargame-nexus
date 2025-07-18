@@ -29,6 +29,7 @@ The chals below are listed with recommended ones first, then the rest in alphabe
 
 ### General
 
+- [Wargames BataMladen](https://wargames.batamladen.com)
 - [pwn.college](https://pwn.college) <img src="https://img.shields.io/badge/recommended-yes-green.svg"> <img src="https://img.shields.io/badge/difficulty-beginner-green.svg">
 - [PicoCTF](http://picoctf.com) <img src="https://img.shields.io/badge/recommended-yes-green.svg"> <img src="https://img.shields.io/badge/difficulty-beginner-green.svg">
 - [root-me](http://root-me.org) <img src="https://img.shields.io/badge/recommended-yes-green.svg">
