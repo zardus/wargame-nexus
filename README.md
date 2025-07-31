@@ -63,6 +63,7 @@ The chals below are listed with recommended ones first, then the rest in alphabe
 - [Mod-X](http://www.mod-x.co.uk/main.php) <img src="https://img.shields.io/badge/status-dead-red.svg">
 - [Net-Force](https://net-force.nl/)
 - [NewbieContest](https://www.newbiecontest.org/) <img src="https://img.shields.io/badge/language-french-orange.svg">
+- [NSA Codebreaker](https://nsa-codebreaker.org/resources)
 - [Open Security Training](https://opensecuritytraining.info/Welcome.html) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg"> <img src="https://img.shields.io/badge/style-offline-lightgrey.svg">
 - [Open Security Training 2](https://p.ost2.fyi/) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [OverTheWire Semtex](http://overthewire.org/wargames/semtex/)
