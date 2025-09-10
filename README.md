@@ -50,6 +50,7 @@ The chals below are listed with recommended ones first, then the rest in alphabe
 - [ExploitExercises Main Sequence](https://exploit.education/main-sequence/) <img src="https://img.shields.io/badge/style-offline-lightgrey.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [ExploitExercises Nebula](https://exploit.education/nebula/) <img src="https://img.shields.io/badge/difficulty-beginner-green.svg"> <img src="https://img.shields.io/badge/style-offline-lightgrey.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [Flagyard](https://flagyard.com/)
+- [Hack The Web](https://hack.arrrg.de/)
 - [hackArcana](https://hackarcana.com/exercises)
 - [HackBBS](https://hackbbs.org/index.php)
 - [Hacking-Challenges](http://www.hacking-challenges.de/) <img src="https://img.shields.io/badge/language-german-orange.svg">
