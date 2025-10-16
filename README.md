@@ -43,7 +43,6 @@ The chals below are listed with recommended ones first, then the rest in alphabe
 - [CTFLearn](https://ctflearn.com/)
 - [CpawCTF2](https://ctf2.cpaw.site/)
 - [CpawCTF](https://ctf.cpaw.site/) <img src="https://img.shields.io/badge/difficulty-beginner-green.svg"> <img src="https://img.shields.io/badge/language-japanese-orange.svg">
-- [Defend the Web](https://defendtheweb.net/?hackthis)
 - [Dreamhack](https://dreamhack.io/wargame) <img src="https://img.shields.io/badge/heartbeat-failed-red.svg">
 - [Electrica](http://www.caesum.com/game/)
 - [elhacker](https://warzone.elhacker.net/) <img src="https://img.shields.io/badge/language-spanish-orange.svg">
@@ -220,6 +219,7 @@ I track them here to periodically check for their return (which does happen some
 -  [Bright Shadows](http://bright-shadows.net/) <img src="https://img.shields.io/badge/status-dead-red.svg">
 -  [CHALLENGE LAND](http://challengeland.co/) <img src="https://img.shields.io/badge/status-dead-red.svg">
 -  [ctfs.me](http://ctfs.me/) <img src="https://img.shields.io/badge/status-dead-red.svg">
+-  [Defend the Web](https://defendtheweb.net/?hackthis)
 -  [HackBurger](https://hackburger.ee/) <img src="https://img.shields.io/badge/status-dead-red.svg">
 -  [HackMe](https://hack.me/) <img src="https://img.shields.io/badge/status-dead-red.svg">
 -  [HallsOfValhalla](https://halls-of-valhalla.org/beta/) <img src="https://img.shields.io/badge/status-dead-red.svg">
