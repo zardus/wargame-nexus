@@ -205,6 +205,7 @@ The chals below are listed with recommended ones first, then the rest in alphabe
 
 Developing some core CS skills can be useful for security as well!
 
+- [CMD Challenge](https://cmdchallenge.com/)
 - [Protohackers](https://protohackers.com/)
 - [PyDéfis](https://pydefis.callicode.fr/) <img src="https://img.shields.io/badge/language-french-orange.svg">
 - [SadServers](https://sadservers.com/)
