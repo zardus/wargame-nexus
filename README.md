@@ -144,6 +144,7 @@ The chals below are listed with recommended ones first, then the rest in alphabe
 - [LigerLabs](https://ligerlabs.org/) <img src="https://img.shields.io/badge/style-offline-lightgrey.svg">
 - [OverTheWire Leviathan](http://overthewire.org/wargames/leviathan/) <img src="https://img.shields.io/badge/difficulty-beginner-green.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [RogerFM Crackme](http://rogerfm.net/challenge/crackme/)
+- [Wargames BataMladen: Jugsaw](https://wargames.batamladen.com/challenges/jugsaw)
 
 ### Prompt Injection
 
@@ -197,6 +198,7 @@ The chals below are listed with recommended ones first, then the rest in alphabe
 
 - [DFIRmadness](https://dfirmadness.com)
 - [Digital Forensics Lab](https://github.com/frankwxu/digital-forensics-lab) <img src="https://img.shields.io/badge/style-offline-lightgrey.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
+- [Wargames BataMladen: Hogwarts](https://wargames.batamladen.com/challenges/hogwarts)
 
 ### Cloud
 
