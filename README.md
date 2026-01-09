@@ -23,6 +23,8 @@ The chals below are listed with recommended ones first, then the rest in alphabe
 
 ### Beginner
 
+- [Challenges Kids](https://www.challenges-kids.fr/) <img src="https://img.shields.io/badge/language-french-orange.svg">
+- [hackchallengesforkids.com](https://hackchallengesforkids.com/)
 - [OverTheWire Bandit](http://overthewire.org/wargames/bandit/) <img src="https://img.shields.io/badge/difficulty-beginner-green.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [SmashTheStack Blowfish](http://smashthestack.org/blowfish.html) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 
@@ -35,11 +37,13 @@ The chals below are listed with recommended ones first, then the rest in alphabe
 - [WeChall](http://www.wechall.net/) <img src="https://img.shields.io/badge/recommended-yes-green.svg">
 - [247CTF](https://247ctf.com)
 - [0x539](https://0x0539.net/)
+- [ATENEA](https://atenea.ccn-cert.cni.es/) <img src="https://img.shields.io/badge/language-spanish-orange.svg">
 - [Block Harbor Automotive Cybersecurity](https://ctf.blockharbor.io/)
 - [BUUCTF](https://buuoj.cn/challenges)
 - [CodeEngn](http://ch.codeengn.com/) <img src="https://img.shields.io/badge/language-korean-orange.svg"> <img src="https://img.shields.io/badge/status-dead-red.svg">
 - [CTFLearn](https://ctflearn.com/)
 - [CpawCTF2](https://ctf2.cpaw.site/)
+- [Cyber-Edu](https://app.cyber-edu.co/)
 - [CpawCTF](https://ctf.cpaw.site/) <img src="https://img.shields.io/badge/difficulty-beginner-green.svg"> <img src="https://img.shields.io/badge/language-japanese-orange.svg">
 - [Dreamhack](https://dreamhack.io/wargame) <img src="https://img.shields.io/badge/heartbeat-failed-red.svg">
 - [Electrica](http://www.caesum.com/game/)
@@ -47,17 +51,22 @@ The chals below are listed with recommended ones first, then the rest in alphabe
 - [ExploitExercises Main Sequence](https://exploit.education/main-sequence/) <img src="https://img.shields.io/badge/style-offline-lightgrey.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [ExploitExercises Nebula](https://exploit.education/nebula/) <img src="https://img.shields.io/badge/difficulty-beginner-green.svg"> <img src="https://img.shields.io/badge/style-offline-lightgrey.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [Flagyard](https://flagyard.com/)
+- [Hack Em All](https://hackemall.live/) <img src="https://img.shields.io/badge/language-vietnamese-orange.svg">
 - [Hack The Web](https://hack.arrrg.de/)
 - [hackArcana](https://hackarcana.com/exercises)
 - [HackBBS](https://hackbbs.org/index.php)
+- [HackerLab](https://hackerlab.pro/en) <img src="https://img.shields.io/badge/language-russian-orange.svg">
 - [Hacking-Challenges](http://www.hacking-challenges.de/) <img src="https://img.shields.io/badge/language-german-orange.svg">
+- [Hackpack](https://hackpack.club/)
 - [Hackropole](https://hackropole.fr/en/) <img src="https://img.shields.io/badge/style-offline-lightgrey.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [HackThisSite](https://www.hackthissite.org/)
+- [HBH](https://hbh.sh/)
 - [HellBound Hackers](https://www.hellboundhackers.org/) <img src="https://img.shields.io/badge/heartbeat-failed-red.svg">
 - [Komodo CTF](http://ctf.komodosec.com/)
 - [MAGURO β](https://score.maguro.run/)
 - [MNCTF](http://mnctf.info/) <img src="https://img.shields.io/badge/language-japanese-orange.svg">
 - [Ma's Reversing](http://3564020356.org/) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
+- [MCPT CTF](https://ctf.mcpt.ca/)
 - [Net-Force](https://net-force.nl/)
 - [NewbieContest](https://www.newbiecontest.org/) <img src="https://img.shields.io/badge/language-french-orange.svg">
 - [NSA Codebreaker](https://nsa-codebreaker.org/resources) <img src="https://img.shields.io/badge/heartbeat-failed-red.svg">
@@ -83,14 +92,18 @@ The chals below are listed with recommended ones first, then the rest in alphabe
 
 ### "Box"-style Wargames
 
+- [echoCTF](https://echoctf.red/)
 - [HackMyVM](https://hackmyvm.eu)
 - [HackTheBox](https://www.hackthebox.com)
+- [OffSec Labs](https://portal.offsec.com/labs/practice)
+- [PentesterLab](https://pentesterlab.com/)
 - [TryHackMe](http://tryhackme.com)
-
 
 ### CTF Archives
 - [ångstromCTF](https://angstromctf.com/) <img src="https://img.shields.io/badge/style-offline-lightgrey.svg">
 - [archive.ooo](https://archive.ooo)
+- [Crypto CTF](https://cr.yp.toc.tf/)
+- [Forever CTF](https://forever.isss.io/)
 - [ImaginaryCTF](https://imaginaryctf.org/ArchivedChallenges) <img src="https://img.shields.io/badge/style-offline-lightgrey.svg">
 - [r3kapig's Notion](https://r3kapig-not1on.notion.site/Index-docs-format-09007cb92ef649838d8057a64f0d99dc) <img src="https://img.shields.io/badge/style-offline-lightgrey.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [Sajjadium's GitHub Repository](https://github.com/sajjadium/ctf-archives) <img src="https://img.shields.io/badge/style-offline-lightgrey.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
@@ -100,6 +113,7 @@ The chals below are listed with recommended ones first, then the rest in alphabe
 
 - [pwnable.kr](http://pwnable.kr) <img src="https://img.shields.io/badge/recommended-yes-green.svg">
 - [pwnable.tw](http://pwnable.tw) <img src="https://img.shields.io/badge/recommended-yes-green.svg">
+- [deusx64](https://deusx64.ai/)
 - [ExploitExercises Fusion](https://exploit.education/fusion/) <img src="https://img.shields.io/badge/difficulty-beginner-green.svg"> <img src="https://img.shields.io/badge/style-offline-lightgrey.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [ExploitExercises Phoenix](https://exploit.education/phoenix/) <img src="https://img.shields.io/badge/difficulty-beginner-green.svg"> <img src="https://img.shields.io/badge/style-offline-lightgrey.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [HackSys Extreme Vulnerable Driver](https://github.com/hacksysteam/HackSysExtremeVulnerableDriver) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
@@ -121,6 +135,7 @@ The chals below are listed with recommended ones first, then the rest in alphabe
 ### Binary Reversing
 
 - [reversing.kr](http://reversing.kr) <img src="https://img.shields.io/badge/recommended-yes-green.svg">
+- [CactusCon RE Challenges](https://gironsec.com/cactuscon_re_challenges/)
 - [challenges.re](https://challenges.re/) <img src="https://img.shields.io/badge/difficulty-beginner-green.svg">
 - [crackmes.de (mirror)](https://crackmes.dreamhosters.com/) <img src="https://img.shields.io/badge/style-offline-lightgrey.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [crackmes.one](https://crackmes.one/)
@@ -128,6 +143,7 @@ The chals below are listed with recommended ones first, then the rest in alphabe
 - [IOLI64](https://github.com/BinaryResearch/IOLI64) <img src="https://img.shields.io/badge/style-offline-lightgrey.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [LigerLabs](https://ligerlabs.org/) <img src="https://img.shields.io/badge/style-offline-lightgrey.svg">
 - [OverTheWire Leviathan](http://overthewire.org/wargames/leviathan/) <img src="https://img.shields.io/badge/difficulty-beginner-green.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
+- [RogerFM Crackme](http://rogerfm.net/challenge/crackme/)
 
 ### Prompt Injection
 
@@ -143,10 +159,12 @@ The chals below are listed with recommended ones first, then the rest in alphabe
 ### Web
 
 - [alert(1) to win](https://alf.nu/alert1/)
+- [Application.Security](https://application.security/)
 - [websec.fr](http://websec.fr) <img src="https://img.shields.io/badge/recommended-yes-green.svg">
 - [webhacking.kr](http://webhacking.kr/) <img src="https://img.shields.io/badge/recommended-yes-green.svg">
 - [0xf.at](https://0xf.at/)
 - [Google Gruyere](http://google-gruyere.appspot.com/) <img src="https://img.shields.io/badge/difficulty-beginner-green.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
+- [Hacker101](https://www.hacker101.com/)
 - [HackerTest](https://www.hackertest.net/)
 - [HackingHub](https://app.hackinghub.io/) <img src="https://img.shields.io/badge/heartbeat-failed-red.svg">
 - [Lords of SQLInjection](https://los.rubiya.kr/)
@@ -154,6 +172,8 @@ The chals below are listed with recommended ones first, then the rest in alphabe
 - [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/) <img src="https://img.shields.io/badge/difficulty-beginner-green.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [PortSwigger Web Security Academy](https://portswigger.net/web-security)
 - [RedTiger's Hackit](https://redtiger.labs.overthewire.org/)
+- [RUB WebSec](https://scandium.cloud.nds.ruhr-uni-bochum.de/websec/)
+- [Vulnweb](http://www.vulnweb.com/)
 - [Wizer CTF](https://wizer-ctf.com/) <img src="https://img.shields.io/badge/difficulty-beginner-green.svg">
 - [XSS Game](https://www.xssgame.com/)
 - [XSS game area](https://xss-game.appspot.com/)
@@ -170,6 +190,7 @@ The chals below are listed with recommended ones first, then the rest in alphabe
 - [Ethernaut (Solidity)](https://ethernaut.openzeppelin.com/) <img src="https://img.shields.io/badge/difficulty-beginner-green.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [Gekkó](https://gekko.csokavar.hu/login)
 - [MysteryTwister](https://mysterytwister.org/)
+- [RogerFM Crypto](http://rogerfm.net/challenge/crypto/)
 - [try to decrypt](https://www.trytodecrypt.com/)
 
 ### Forensics
@@ -182,6 +203,11 @@ The chals below are listed with recommended ones first, then the rest in alphabe
 - [flAWS](http://flaws.cloud/) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [flAWS 2](http://flaws2.cloud/) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 
+### Blue Team / DFIR
+
+- [Blue Team Labs Online](https://blueteamlabs.online/)
+- [LetsDefend](https://app.letsdefend.io/)
+
 ### Unsorted
 
 - [CTF 101](https://ctf101.org/)
@@ -190,8 +216,8 @@ The chals below are listed with recommended ones first, then the rest in alphabe
 - [SANS Holiday Hack Challenge 2023](https://2023.holidayhackchallenge.com/invite)
 - [SmashTheStack Amateria](http://amateria.smashthestack.org:89/) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [SmashTheStack Tux](http://tux.smashthestack.org:86/) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
+- [try2hack](https://try2hack.me/)
 - [Viblo](https://ctf.viblo.asia/landing)
-- [runZero Coin Challenge](https://info.runzero.com/challenge-coin)
 
 ### Recon / OSINT
 
@@ -202,11 +228,17 @@ The chals below are listed with recommended ones first, then the rest in alphabe
 
 Developing some core CS skills can be useful for security as well!
 
+- [Advent of Code](https://adventofcode.com/) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [CMD Challenge](https://cmdchallenge.com/)
+- [CodinGame](https://www.codingame.com/)
+- [Codewars](https://www.codewars.com/)
+- [Exercism](https://exercism.org/)
+- [HackerRank](https://www.hackerrank.com/)
 - [Protohackers](https://protohackers.com/)
 - [PyDéfis](https://pydefis.callicode.fr/) <img src="https://img.shields.io/badge/language-french-orange.svg">
 - [SadServers](https://sadservers.com/)
 - [Tensor Puzzles](https://github.com/srush/Tensor-Puzzles)
+- [UnderTheWire](https://underthewire.tech/) <img src="https://img.shields.io/badge/difficulty-beginner-green.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 
 ### Gone, but not forgotten
 
@@ -218,6 +250,7 @@ I track them here to periodically check for their return (which does happen some
 -  [CHALLENGE LAND](http://challengeland.co/) <img src="https://img.shields.io/badge/status-dead-red.svg">
 -  [Code Auditor CTF](https://auditor.codes/)
 -  [ctfs.me](http://ctfs.me/) <img src="https://img.shields.io/badge/status-dead-red.svg">
+-  [Decompetition](https://decompetition.io/)
 -  [Defend the Web](https://defendtheweb.net/?hackthis)
 -  [HackBurger](https://hackburger.ee/) <img src="https://img.shields.io/badge/status-dead-red.svg">
 -  [HackMe](https://hack.me/) <img src="https://img.shields.io/badge/status-dead-red.svg">
@@ -254,3 +287,4 @@ They are:
 -  [http://ctf.forgottensec.com/wiki/index.php?title=Main_Page](http://ctf.forgottensec.com/wiki/index.php?title=Main_Page)
 -  [https://github.com/carpedm20/awesome-hacking](https://github.com/carpedm20/awesome-hacking)
 -  [https://csea-iitb.github.io/IITBreachers-wiki/2020/08/01/Hacking-Sites.html](https://csea-iitb.github.io/IITBreachers-wiki/2020/08/01/Hacking-Sites.html)
+- A massive resource list sent to me by the awesome [solcoteh](https://github.com/solcoteh)
