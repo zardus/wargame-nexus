@@ -146,6 +146,11 @@ The chals below are listed with recommended ones first, then the rest in alphabe
 - [RogerFM Crackme](http://rogerfm.net/challenge/crackme/)
 - [Wargames BataMladen: Jugsaw](https://wargames.batamladen.com/challenges/jugsaw)
 
+### Program Analysis
+
+- [angr CTF](https://github.com/jakespringer/angr_ctf)
+- [Fuzzing101](https://github.com/antonio-morales/Fuzzing101)
+
 ### Prompt Injection
 
 - [Dreadnode Crucible](https://platform.dreadnode.io/)
