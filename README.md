@@ -37,7 +37,7 @@ The chals below are listed with recommended ones first, then the rest in alphabe
 - [WeChall](http://www.wechall.net/) <img src="https://img.shields.io/badge/recommended-yes-green.svg">
 - [247CTF](https://247ctf.com)
 - [0x539](https://0x0539.net/)
-- [ATENEA](https://atenea.ccn-cert.cni.es/) <img src="https://img.shields.io/badge/language-spanish-orange.svg">
+- [ATENEA](https://atenea.ccn-cert.cni.es/) <img src="https://img.shields.io/badge/language-spanish-orange.svg"> <img src="https://img.shields.io/badge/heartbeat-failed-red.svg">
 - [Block Harbor Automotive Cybersecurity](https://ctf.blockharbor.io/)
 - [BUUCTF](https://buuoj.cn/challenges)
 - [CodeEngn](http://ch.codeengn.com/) <img src="https://img.shields.io/badge/language-korean-orange.svg"> <img src="https://img.shields.io/badge/status-dead-red.svg">
@@ -73,7 +73,6 @@ The chals below are listed with recommended ones first, then the rest in alphabe
 - [Open Security Training](https://opensecuritytraining.info/Welcome.html) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg"> <img src="https://img.shields.io/badge/style-offline-lightgrey.svg">
 - [Open Security Training 2](https://p.ost2.fyi/) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [OverTheWire Semtex](http://overthewire.org/wargames/semtex/)
-- [PWN.TN](https://pwn.tn/)
 - [Rankk.org](https://www.rankk.org/)
 - [Revolution Elite](https://www.revolutionelite.co.uk/)
 - [RingZer0Team Online CTF](https://ringzer0team.com/home)
@@ -220,7 +219,6 @@ The chals below are listed with recommended ones first, then the rest in alphabe
 - [CTF 101](https://ctf101.org/)
 - [InterruptLabs Challenges](https://www.interruptlabs.co.uk/challenges)
 - [IO07](http://io.netgarage.org:777/) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
-- [SANS Holiday Hack Challenge 2023](https://2023.holidayhackchallenge.com/invite)
 - [SmashTheStack Amateria](http://amateria.smashthestack.org:89/) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [SmashTheStack Tux](http://tux.smashthestack.org:86/) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [try2hack](https://try2hack.me/)
@@ -266,6 +264,8 @@ I track them here to periodically check for their return (which does happen some
 -  [Mod-X](http://www.mod-x.co.uk/main.php) <img src="https://img.shields.io/badge/status-dead-red.svg">
 -  [IOarm](http://ioarm.netgarage.org/) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg"> <img src="https://img.shields.io/badge/status-dead-red.svg">
 -  [Prompt Riddle](https://promptriddle.com/)
+-  [PWN.TN](https://pwn.tn/) <img src="https://img.shields.io/badge/status-dead-red.svg">
+-  [SANS Holiday Hack Challenge 2023](https://2023.holidayhackchallenge.com/invite) <img src="https://img.shields.io/badge/status-dead-red.svg">
 -  [Stereotyped Challenges](https://chall.stypr.com) <img src="https://img.shields.io/badge/status-degraded-orange.svg"> <img src="https://img.shields.io/badge/style-offline-lightgrey.svg">
 -  [The Enigma Group](https://www.enigmagroup.org/) <img src="https://img.shields.io/badge/status-dead-red.svg">
 -  [WTHack](https://www.onlinectf.com/challenges/) <img src="https://img.shields.io/badge/status-dead-red.svg">
