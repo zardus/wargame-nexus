@@ -78,7 +78,7 @@ The chals below are listed with recommended ones first, then the rest in alphabe
 - [RingZer0Team Online CTF](https://ringzer0team.com/home)
 - [SmashTheStack Logic](http://logic.smashthestack.org:88/) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [SuNiNaTaS](http://suninatas.com/) <img src="https://img.shields.io/badge/language-korean-orange.svg">
-- [ThisisLegal.com](https://www.thisislegal.com/) <img src="https://img.shields.io/badge/heartbeat-failed-red.svg">
+- [ThisisLegal.com](https://www.thisislegal.com/) <img src="https://img.shields.io/badge/status-gone%20but%20not%20forgotten-red.svg">
 - [TryThis0ne.com](http://www.trythis0ne.com/)
 - [VulnHub](https://www.vulnhub.com/) <img src="https://img.shields.io/badge/style-offline-lightgrey.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [YEHD 2015 CTF](https://2015-yehd-ctf.meiji-ncc.tech/) <img src="https://img.shields.io/badge/language-japanese-orange.svg">

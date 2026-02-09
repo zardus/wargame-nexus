@@ -20,6 +20,8 @@ for line in open("README.md"):
         continue
     if "heartbeat-failed" in line:
         continue
+    if "gone%20but%20not%20forgotten" in line:
+        continue
         
     name = line.strip("- [").split("]")[0]
     url = line.split("]")[1][1:].split(")")[0]
