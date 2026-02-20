@@ -210,8 +210,8 @@ The chals below are listed with recommended ones first, then the rest in alphabe
 ### Blue Team / DFIR
 
 - [Blue Team Labs Online](https://blueteamlabs.online/)
-- [LetsDefend](https://app.letsdefend.io/)
 - [CyberDefenders](https://cyberdefenders.org/)
+- [LetsDefend](https://app.letsdefend.io/)
 
 ### Unsorted
 
