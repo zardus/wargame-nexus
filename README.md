@@ -206,6 +206,7 @@ The chals below are listed with recommended ones first, then the rest in alphabe
 
 - [flAWS](http://flaws.cloud/) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [flAWS 2](http://flaws2.cloud/) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
+- [PwnedLabs](https://pwnedlabs.io/)
 
 ### Blue Team / DFIR
 
