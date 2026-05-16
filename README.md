@@ -76,6 +76,7 @@ The chals below are listed with recommended ones first, then the rest in alphabe
 - [Revolution Elite](https://www.revolutionelite.co.uk/)
 - [RingZer0Team Online CTF](https://ringzer0team.com/home)
 - [SmashTheStack Logic](http://logic.smashthestack.org:88/) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
+- [Spot The Vuln](https://spot-the-vuln.firebaseapp.com/)
 - [SuNiNaTaS](http://suninatas.com/) <img src="https://img.shields.io/badge/language-korean-orange.svg">
 - [TryThis0ne.com](http://www.trythis0ne.com/)
 - [VulnHub](https://www.vulnhub.com/) <img src="https://img.shields.io/badge/style-offline-lightgrey.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
