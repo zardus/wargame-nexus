@@ -107,11 +107,9 @@ The chals below are listed with recommended ones first, then the rest in alphabe
 - [Sajjadium's GitHub Repository](https://github.com/sajjadium/ctf-archives) <img src="https://img.shields.io/badge/style-offline-lightgrey.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [ShellStorm](https://shell-storm.org/repo/CTF/) <img src="https://img.shields.io/badge/style-offline-lightgrey.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 
-### Technological Research
-- [Research Labs](https://researchlabs.tech) <img src="https://img.shields.io/badge/recommended-yes-green.svg"> <img src="https://img.shields.io/badge/style-offline-lightgrey.svg">
-
 ### Binary Pwning
 
+- [Research Labs](https://researchlabs.tech) <img src="https://img.shields.io/badge/recommended-yes-green.svg"> <img src="https://img.shields.io/badge/style-offline-lightgrey.svg">
 - [pwnable.kr](http://pwnable.kr) <img src="https://img.shields.io/badge/recommended-yes-green.svg">
 - [pwnable.tw](http://pwnable.tw) <img src="https://img.shields.io/badge/recommended-yes-green.svg">
 - [deusx64](https://deusx64.ai/)
