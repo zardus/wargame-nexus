@@ -117,6 +117,7 @@ The chals below are listed with recommended ones first, then the rest in alphabe
 - [HackSys Extreme Vulnerable Driver](https://github.com/hacksysteam/HackSysExtremeVulnerableDriver) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [IO64](http://io.netgarage.org:8064/) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [IO](https://io.netgarage.org/) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
+- [Kernel Exploit Dojo](https://github.com/mito753/Kernel-Exploit-Dojo) <img src="https://img.shields.io/badge/style-offline-lightgrey.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [Microcorruption](https://microcorruption.com/login)
 - [Nightmare](https://github.com/guyinatuxedo/nightmare) <img src="https://img.shields.io/badge/style-offline-lightgrey.svg">
 - [OverTheWire Behemoth](http://overthewire.org/wargames/behemoth/) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
