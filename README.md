@@ -167,6 +167,7 @@ The chals below are listed with recommended ones first, then the rest in alphabe
 - [alert(1) to win](https://alf.nu/alert1/)
 - [Application.Security](https://application.security/)
 - [websec.fr](http://websec.fr) <img src="https://img.shields.io/badge/recommended-yes-green.svg">
+- [websec.co.il](https://websec.co.il) <img src="https://img.shields.io/badge/recommended-yes-green.svg">
 - [webhacking.kr](http://webhacking.kr/) <img src="https://img.shields.io/badge/recommended-yes-green.svg">
 - [0xf.at](https://0xf.at/)
 - [Google Gruyere](http://google-gruyere.appspot.com/) <img src="https://img.shields.io/badge/difficulty-beginner-green.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
