@@ -175,7 +175,6 @@ The chals below are listed with recommended ones first, then the rest in alphabe
 - [Hacker101](https://www.hacker101.com/)
 - [HackerTest](https://www.hackertest.net/)
 - [HackingHub](https://app.hackinghub.io/) <img src="https://img.shields.io/badge/heartbeat-failed-red.svg">
-- [Lords of SQLInjection](https://los.rubiya.kr/)
 - [OverTheWire Natas](http://overthewire.org/wargames/natas/) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/) <img src="https://img.shields.io/badge/difficulty-beginner-green.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [PortSwigger Web Security Academy](https://portswigger.net/web-security)
@@ -256,6 +255,7 @@ Developing some core CS skills can be useful for security as well!
 These sites have gone offline (or taken their challenges offline).
 I track them here to periodically check for their return (which does happen sometimes!).
 
+-  [Lords of SQLInjection](https://los.rubiya.kr/)
 -  [Backdoor](https://backdoor.sdslabs.co/challenges)
 -  [Block Harbor Automotive Cybersecurity](https://ctf.blockharbor.io/)
 -  [Bright Shadows](http://bright-shadows.net/) <img src="https://img.shields.io/badge/status-dead-red.svg">
