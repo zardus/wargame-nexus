@@ -132,6 +132,7 @@ The chals below are listed with recommended ones first, then the rest in alphabe
 - [ROP Emporium](https://ropemporium.com/)
 - [ROP.sh](https://github.com/xelenonz/game/) <img src="https://img.shields.io/badge/status-degraded-orange.svg"> <img src="https://img.shields.io/badge/style-offline-lightgrey.svg">
 - [pwnable.xyz](https://pwnable.xyz/)
+- [Binary Jiu-Jitsu](https://binaryjiujitsu.com/)
 
 ### Binary Reversing
 
