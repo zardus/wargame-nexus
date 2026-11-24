@@ -14,5 +14,6 @@ jobs:
     - uses: docker/setup-buildx-action@master
     - name: check sites that should be live
       run: |
-        pip install curl_cffi
-        ./check.py || ./check.py || ./check.py || ./check.py
+        pip install curl_cffi playwright
+        python3 -m playwright install --with-deps --no-shell chromium
+        xvfb-run -a ./check.py || xvfb-run -a ./check.py || xvfb-run -a ./check.py || xvfb-run -a ./check.py
