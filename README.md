@@ -41,7 +41,7 @@ The chals below are listed with recommended ones first, then the rest in alphabe
 - [0x539](https://0x0539.net/)
 - [AlpacaHack](https://alpacahack.com/)
 - [ATENEA](https://atenea.ccn-cert.cni.es/) <img src="https://img.shields.io/badge/language-spanish-orange.svg"> <img src="https://img.shields.io/badge/heartbeat-failed-red.svg">
-- [CTF² (formerly BUUCTF)](https://ctf2.dasctf.com/)
+- [BUUCTF](https://buuoj.cn/challenges) is archived. Its maintainers direct players to [CTF²](https://ctf2.dasctf.com/).
 - [CodeEngn](https://codeengn.com/challenge) <img src="https://img.shields.io/badge/language-korean-orange.svg"> <img src="https://img.shields.io/badge/style-offline-lightgrey.svg">
 - [CpawCTF2](https://ctf2.cpaw.site/)
 - [Cyber-Edu](https://app.cyber-edu.co/)
@@ -65,11 +65,11 @@ The chals below are listed with recommended ones first, then the rest in alphabe
 - [MNCTF](http://mnctf.info/) <img src="https://img.shields.io/badge/language-japanese-orange.svg">
 - [Ma's Reversing](http://3564020356.org/) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [MCPT CTF](https://ctf.mcpt.ca/)
-- [NSA Codebreaker](https://nsa-codebreaker.org/resources)
+- [NSA Codebreaker](https://nsa-codebreaker.org/resources) <img src="https://img.shields.io/badge/heartbeat-failed-red.svg">
 - [Open Security Training](https://opensecuritytraining.info/Welcome.html) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg"> <img src="https://img.shields.io/badge/style-offline-lightgrey.svg">
 - [Open Security Training 2](https://p.ost2.fyi/) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [Rankk.org](https://www.rankk.org/)
-- [Revolution Elite](https://revolutionelite.co.uk/)
+- [Revolution Elite](https://revolutionelite.co.uk/) <img src="https://img.shields.io/badge/heartbeat-failed-red.svg">
 - [RingZer0Team Online CTF](https://ringzer0ctf.com/challenges)
 - [SmashTheStack Logic](http://logic.smashthestack.org:88/) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [Spot The Vuln](https://spot-the-vuln.firebaseapp.com/)
@@ -249,7 +249,7 @@ The chals below are listed with recommended ones first, then the rest in alphabe
 
 ### Recon / OSINT
 
-- [ae27ff](https://ae27ff.com/about.php)
+- [ae27ff](https://ae27ff.com/about.php) <img src="https://img.shields.io/badge/heartbeat-failed-red.svg">
 - [Sofia Santos OSINT Analysis & Exercises](https://gralhix.com/list-of-osint-exercises/)
 
 ### Not Security
