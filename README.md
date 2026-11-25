@@ -60,7 +60,7 @@ The chals below are listed with recommended ones first, then the rest in alphabe
 - [Hacking-Lab](https://www.hacking-lab.com/) <img src="https://img.shields.io/badge/cost-freemium-yellow.svg">
 - [Hackpack](https://hackpack.club/)
 - [Hackropole](https://hackropole.fr/en/) <img src="https://img.shields.io/badge/style-offline-lightgrey.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
-- [HackThisSite](https://www.hackthissite.org/)
+- [HackThisSite](https://www.hackthissite.org/missions/)
 - [HellBound Hackers (HBH)](https://hbh.sh/)
 - [MNCTF](http://mnctf.info/) <img src="https://img.shields.io/badge/language-japanese-orange.svg">
 - [Ma's Reversing](http://3564020356.org/) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
@@ -270,19 +270,12 @@ Developing some core CS skills can be useful for security as well!
 
 ### Currently unavailable
 
-These games are offline or under maintenance. The nightly check still reports their HTTP status so a returning game can be reviewed.
+These games either responded recently or have an announced return. The nightly check still visits each one.
 
-- [CpawCTF](https://ctf.cpaw.site/) <img src="https://img.shields.io/badge/difficulty-beginner-green.svg"> <img src="https://img.shields.io/badge/language-japanese-orange.svg"> The original game returns HTTP 502. CpawCTF2 is still online.
 - [CTFLearn](https://ctflearn.com/) The site returns HTTP 502. It last passed the nightly check on November 17, 2026.
-- [ImaginaryCTF daily challenges](https://imaginaryctf.org/ArchivedChallenges) The daily archive times out. The competition archives are available above.
-- [Komodo CTF](https://ctf.komodosec.com/) The challenge host has timed out since November 2026.
+- [ImaginaryCTF daily challenges](https://imaginaryctf.org/ArchivedChallenges) The daily archive last passed the nightly check on November 19, 2026. The competition archives remain available.
+- [Komodo CTF](https://ctf.komodosec.com/) The challenge host last passed the nightly check on November 18, 2026.
 - [MAGURO β](https://score.maguro.run/) The organizers say the game will return in winter.
-- [Net-Force](https://net-force.nl/) The home page and challenge list return HTTP 500.
-- [NewbieContest](https://www.newbiecontest.org/) <img src="https://img.shields.io/badge/language-french-orange.svg"> The organizers have put the site into maintenance for an indefinite period.
-- [RedTiger's Hackit](https://redtiger.labs.overthewire.org/) The challenge host refuses connections.
-- [RogerFM Crackme](https://rogerfm.net/challenge/crackme/) The challenge page returns HTTP 403.
-- [RogerFM Crypto](https://rogerfm.net/challenge/crypto/) The challenge page returns HTTP 403.
-- [RUB WebSec](https://scandium.cloud.nds.ruhr-uni-bochum.de/websec/) The university challenge host has timed out for several months.
 
 ### Gone, but not forgotten
 
@@ -298,6 +291,7 @@ I track them here to periodically check for their return (which does happen some
 -  [Bright Shadows](http://bright-shadows.net/) <img src="https://img.shields.io/badge/status-dead-red.svg">
 -  [CHALLENGE LAND](http://challengeland.co/) <img src="https://img.shields.io/badge/status-dead-red.svg">
 -  [Code Auditor CTF](https://auditor.codes/)
+-  [CpawCTF](https://ctf.cpaw.site/) <img src="https://img.shields.io/badge/difficulty-beginner-green.svg"> <img src="https://img.shields.io/badge/language-japanese-orange.svg"> The original game has returned HTTP 502 since October 2026. [CpawCTF2](https://ctf2.cpaw.site/) remains online.
 -  [ctfs.me](http://ctfs.me/) <img src="https://img.shields.io/badge/status-dead-red.svg">
 -  [Decompetition](https://decompetition.io/)
 -  [Defend the Web](https://defendtheweb.net/?hackthis)
@@ -307,8 +301,14 @@ I track them here to periodically check for their return (which does happen some
 -  [hax.tor](http://hax.tor.hu/welcome/) <img src="https://img.shields.io/badge/status-degraded-orange.svg">
 -  [Mod-X](http://www.mod-x.co.uk/main.php) <img src="https://img.shields.io/badge/status-dead-red.svg">
 -  [IOarm](http://ioarm.netgarage.org/) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg"> <img src="https://img.shields.io/badge/status-dead-red.svg">
+-  [Net-Force](https://net-force.nl/) The home page and challenge list have returned HTTP 500 since October 2026.
+-  [NewbieContest](https://www.newbiecontest.org/) <img src="https://img.shields.io/badge/language-french-orange.svg"> The organizers put the challenges into maintenance for an indefinite period.
 -  [Prompt Riddle](https://promptriddle.com/)
 -  [PWN.TN](https://pwn.tn/) <img src="https://img.shields.io/badge/status-dead-red.svg">
+-  [RedTiger's Hackit](https://redtiger.labs.overthewire.org/) The challenge host has refused connections since October 2026.
+-  [RogerFM Crackme](https://rogerfm.net/challenge/crackme/) The challenge page has denied access since at least September 2026.
+-  [RogerFM Crypto](https://rogerfm.net/challenge/crypto/) The challenge page has denied access since at least September 2026.
+-  [RUB WebSec](https://scandium.cloud.nds.ruhr-uni-bochum.de/websec/) The challenge host has timed out since at least September 2026.
 -  [SANS Holiday Hack Challenge 2023](https://2023.holidayhackchallenge.com/invite) <img src="https://img.shields.io/badge/status-dead-red.svg">
 -  [Stereotyped Challenges](https://chall.stypr.com) <img src="https://img.shields.io/badge/status-degraded-orange.svg"> <img src="https://img.shields.io/badge/style-offline-lightgrey.svg">
 -  [The Enigma Group](https://www.enigmagroup.org/) <img src="https://img.shields.io/badge/status-dead-red.svg">
