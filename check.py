@@ -3,6 +3,7 @@
 # Each site is fetched with curl and, if that fails, loaded in a real browser. It counts as up if either works.
 
 import asyncio
+import re
 import time
 import sys
 
@@ -18,21 +19,26 @@ except ImportError:
 from playwright.async_api import async_playwright, Error as PlaywrightError
 
 CONCURRENCY = 8
+MAX_ATTEMPTS = 4
 LOAD_TIMEOUT = 30    # seconds for a page to load in the browser
 SETTLE_TIMEOUT = 15  # further seconds for a non-200 page (e.g., a JS challenge) to navigate itself to a 200
 
 def sites():
-    for line in open("README.md"):
-        if "Gone, but not" in line:
-            break
-        if not line.startswith("- [") or "http" not in line:
-            continue
-        if "heartbeat-failed" in line:
-            continue
-        name = line.strip("- [").split("]")[0]
-        url = line.split("]")[1][1:].split(")")[0]
-        assert url.startswith("http"), f"Line '{line}' not parsed into name and URL."
-        yield name, url
+    with open("README.md", encoding="utf-8") as catalog:
+        section = ""
+        for line in catalog:
+            if line.startswith("### "):
+                section = line.strip()
+                if section == "### Gone, but not forgotten":
+                    break
+            if not re.match(r"^- +\[", line):
+                continue
+            link = re.match(r"^- +\[([^\]]+)\]\((https?://[^)]+)\)", line)
+            if not link:
+                raise ValueError(f"Invalid catalog entry: {line.rstrip()}")
+            name, url = link.groups()
+            required = section != "### Currently unavailable" and "heartbeat-failed" not in line
+            yield name, url, required
 
 def check_curl(url):
     """Fetches the URL with curl. Returns None if it is live, otherwise what went wrong."""
@@ -82,11 +88,14 @@ async def main():
         browser = await p.chromium.launch(headless=False)
         slots = asyncio.Semaphore(CONCURRENCY)
 
-        async def test(name, url):
+        async def test(name, url, required):
             async with slots:
                 curl_problem = await asyncio.to_thread(check_curl, url)
                 browser_problem = await check_browser(browser, url) if curl_problem else None
-            if not curl_problem:
+            if not required:
+                status = f"curl: {curl_problem}; browser: {browser_problem}" if browser_problem else "responded; review listing"
+                print(f"[monitor] {name} - {url} ({status})", flush=True)
+            elif not curl_problem:
                 print(f"[+] {name} - {url}", flush=True)
             elif not browser_problem:
                 print(f"[+] {name} - {url} (browser only, curl: {curl_problem})", flush=True)
@@ -94,14 +103,22 @@ async def main():
                 print(f"!!! {name} - {url}\n      curl: {curl_problem}\n      browser: {browser_problem}", flush=True)
             return not curl_problem or not browser_problem
 
-        todo = list(sites())
-        up = await asyncio.gather(*(test(name, url) for name, url in todo))
+        pending = list(sites())
+        if not any(required for _, _, required in pending):
+            raise ValueError("No active catalog entries to check")
+        for attempt in range(1, MAX_ATTEMPTS + 1):
+            up = await asyncio.gather(*(test(*site) for site in pending))
+            pending = [site for site, ok in zip(pending, up) if site[2] and not ok]
+            if not pending:
+                break
+            if attempt < MAX_ATTEMPTS:
+                print(f"Retrying {len(pending)} failed site(s)", flush=True)
+                await asyncio.sleep(2)
         await browser.close()
 
-    failed = [ site for site, ok in zip(todo, up) if not ok ]
-    for n,u in failed:
-        print(f"FAILED: {n} - {u}")
-    return 1 if failed else 0
+    for name, url, _ in pending:
+        print(f"FAILED: {name} - {url}")
+    return 1 if pending else 0
 
 if __name__ == "__main__":
     sys.exit(asyncio.run(main()))
