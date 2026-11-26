@@ -2,7 +2,8 @@ name: Nightly Liveness Check
 
 on:
   schedule:
-  - cron: "0 0 * * *"
+  # A delayed midnight run can overlap HackThisSite's 08:00 UTC backups.
+  - cron: "17 16 * * *"
   workflow_dispatch:
 
 jobs:

@@ -19,7 +19,7 @@ You can aggregate your score across many of these sites by registering on [WeCha
 - <img src="https://img.shields.io/badge/status-degraded-orange.svg"> bitrotted
 - <img src="https://img.shields.io/badge/status-dead-red.svg"> dead
 - <img src="https://img.shields.io/badge/language-X-orange.svg"> only playable in language X
-- <img src="https://img.shields.io/badge/heartbeat-failed-red.svg"> verified live, but sometimes blocks the nightly check
+- <img src="https://img.shields.io/badge/heartbeat-failed-red.svg"> verified live, but the nightly check sometimes times out or gets blocked
 
 The chals below are listed with recommended ones first, then the rest in alphabetical order.
 
@@ -37,7 +37,7 @@ The chals below are listed with recommended ones first, then the rest in alphabe
 - [root-me](http://root-me.org) <img src="https://img.shields.io/badge/recommended-yes-green.svg">
 - [W3Challs](https://w3challs.com/) <img src="https://img.shields.io/badge/recommended-yes-green.svg">
 - [WeChall](http://www.wechall.net/) <img src="https://img.shields.io/badge/recommended-yes-green.svg">
-- [247CTF](https://247ctf.com)
+- [247CTF](https://247ctf.com) <img src="https://img.shields.io/badge/heartbeat-failed-red.svg">
 - [0x539](https://0x0539.net/)
 - [AlpacaHack](https://alpacahack.com/)
 - [ATENEA](https://atenea.ccn-cert.cni.es/) <img src="https://img.shields.io/badge/language-spanish-orange.svg"> <img src="https://img.shields.io/badge/heartbeat-failed-red.svg">
